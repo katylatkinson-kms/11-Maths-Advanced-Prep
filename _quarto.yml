@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "**/*.qmd"
+    - "!**/_*.qmd"
+
+website:
+  title: "Year 11 Mathematics Advanced Holiday Preparation"
+  description: "Refresh your Year 10 mathematics and prepare for Year 11 Mathematics Advanced with short, independent revision lessons."
+  site-url: https://katylatkinson-kms.github.io/11-Maths-Advanced-Prep/
+  navbar:
+    title: "Year 11 Maths Advanced"
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: courses/year-11-advanced/index.qmd
+        text: Course
+      - href: courses/year-11-advanced/holiday-preparation/index.qmd
+        text: Holiday program
+  page-footer:
+    left: "Year 11 Mathematics Advanced · Holiday Preparation"
+  search: false
+
+lang: en-AU
+
+format:
+  html:
+    theme: cosmo
+    css: /assets/styles.css
+    toc: false
+    anchor-sections: false
+    smooth-scroll: true

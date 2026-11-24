@@ -1,0 +1,13 @@
+# Presentation settings apply only inside this lessons directory.
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    navigation-mode: linear
+    controls: true
+    progress: true
+    transition: none
+    center: false
+    hash: true
+    width: 1280
+    height: 720

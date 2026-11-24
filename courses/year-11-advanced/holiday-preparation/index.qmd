@@ -1,0 +1,31 @@
+---
+title: "Holiday preparation program"
+description: "Independent revision to strengthen your mathematics foundations before Year 11."
+---
+
+::: {.eyebrow}
+Small steps towards a confident start
+:::
+
+The planned program will contain approximately 20 short lessons. Each will combine a 15–20 minute revision lesson with about 40 minutes of Year 10 textbook practice.
+
+::: {.status-note}
+**Lessons are coming soon.** This page will link to each lesson as it becomes available. The lesson sequence and textbook questions are still being prepared.
+:::
+
+## Skills we plan to revisit
+
+- Simplifying expressions and expanding brackets.
+- Solving linear equations, including brackets and fractions.
+- Factorising and solving quadratic equations.
+- Completing the square.
+- Simplifying and calculating with algebraic fractions.
+- Applying index laws.
+
+## Working independently
+
+Have paper, a pen and your Year 10 textbook nearby. In each lesson, pause to try the questions before checking the worked solutions. Use the feedback to revisit any steps you find difficult, then move on to the assigned practice.
+
+Exact textbook details, exercise references and questions will be provided when the lessons are published.
+
+[Return to course](../index.qmd){.back-link}

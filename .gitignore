@@ -1,0 +1,6 @@
+/_site/
+/.quarto/
+/.openai/
+.DS_Store
+
+**/*.quarto_ipynb

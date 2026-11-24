@@ -1,0 +1,50 @@
+---
+title: "Year 11 Mathematics Advanced Holiday Preparation"
+title-block-banner: false
+pagetitle: "Year 11 Mathematics Advanced Holiday Preparation"
+---
+
+::: {.hero-intro}
+::: {.eyebrow}
+Refresh your skills. Build your confidence.
+:::
+
+::: {.lead}
+A little practice now can make the start of Year 11 feel more familiar. Revisit the essential ideas from Year 10, one manageable lesson at a time.
+:::
+
+::: {.status-note}
+**Coming soon** — your holiday preparation lessons are being developed.
+:::
+
+[Explore the program](courses/year-11-advanced/holiday-preparation/index.qmd){.btn .btn-primary}
+[How it will work](#how-it-will-work){.secondary-link}
+:::
+
+## How it will work
+
+::: {.learning-rhythm}
+::: {.rhythm-part}
+### Refresh and check
+
+::: {.time-label}
+15–20 minutes
+:::
+
+A short lesson with clear explanations, worked examples and questions to try. Reveal the answers and feedback when you are ready.
+:::
+
+::: {.rhythm-part}
+### Put it into practice
+
+::: {.time-label}
+About 40 minutes
+:::
+
+Follow up with selected Year 10 textbook questions to consolidate your understanding. Exercise references will accompany each lesson.
+:::
+:::
+
+::: {.closing-note}
+You do not need to remember everything already. The program is designed to help you revisit ideas, work through mistakes and rebuild fluency at your own pace.
+:::

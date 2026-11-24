@@ -1,0 +1,22 @@
+---
+title: "Year 11 Mathematics Advanced"
+description: "Prepare for the start of Year 11 Mathematics Advanced."
+---
+
+::: {.eyebrow}
+Get ready for the year ahead
+:::
+
+Refresh the Year 10 skills that will support your work in Mathematics Advanced.
+
+## Holiday preparation
+
+Short, independent revision lessons followed by focused textbook practice. The program will revisit essential algebra and equation-solving skills, with checks to help you decide what to practise next.
+
+::: {.status-note}
+**In preparation** — lessons and textbook allocations will be added here as they are ready.
+:::
+
+[View the holiday program](holiday-preparation/index.qmd){.btn .btn-primary}
+
+[Return to home](../../index.qmd){.back-link}
