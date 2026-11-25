@@ -1,24 +1,56 @@
+<nav class="lesson-nav" aria-label="Lesson navigation" hidden>
+  <a href="../index.html">Holiday program</a>
+  <span class="lesson-position"></span>
+  <button type="button" data-move="prev">Back</button>
+  <button type="button" data-move="next">Next</button>
+</nav>
 <script>
 (() => {
-  for (const form of document.querySelectorAll('.index-check')) {
-    const messages = form.querySelectorAll('[data-result]');
-    function show(result) {
-      for (const message of messages) {
-        message.hidden = message.dataset.result !== result;
-      }
+  function initialise() {
+    const nav = document.querySelector('.lesson-nav');
+    const previous = nav.querySelector('[data-move="prev"]');
+    const next = nav.querySelector('[data-move="next"]');
+    const counter = nav.querySelector('.lesson-position');
+    function updateNavigation() {
+      const fragments = Reveal.availableFragments();
+      previous.disabled = Reveal.isFirstSlide() && !fragments.prev;
+      next.disabled = Reveal.isLastSlide() && !fragments.next;
+      counter.textContent = (Reveal.getSlidePastCount() + 1) + ' / ' + Reveal.getTotalSlides();
     }
-    form.addEventListener('submit', event => {
-      event.preventDefault();
-      const choice = form.querySelector('input:checked');
-      show(choice ? choice.value : 'empty');
-    });
-    form.addEventListener('change', () => show(null));
-    form.addEventListener('reset', () => {
-      show(null);
-      for (const panel of form.closest('section').querySelectorAll('details')) {
-        panel.open = false;
+    previous.addEventListener('click', () => Reveal.prev());
+    next.addEventListener('click', () => Reveal.next());
+    for (const event of ['slidechanged', 'fragmentshown', 'fragmenthidden']) {
+      Reveal.on(event, updateNavigation);
+    }
+    updateNavigation();
+    nav.hidden = false;
+
+    for (const check of document.querySelectorAll('.index-check')) {
+      const slide = check.closest('section');
+      const options = check.querySelectorAll('[data-choice]');
+      const feedback = slide.querySelectorAll('[data-result]');
+      const reset = slide.querySelector('.reset-check');
+      function select(value) {
+        for (const option of options) {
+          option.setAttribute('aria-pressed', String(option.dataset.choice === value));
+        }
+        for (const message of feedback) {
+          message.hidden = message.dataset.result !== value;
+        }
+        reset.hidden = value === null;
       }
-    });
+      for (const option of options) {
+        option.addEventListener('click', () => select(option.dataset.choice));
+      }
+      reset.addEventListener('click', () => {
+        select(null);
+        options[0].focus();
+      });
+    }
   }
+  window.addEventListener('DOMContentLoaded', () => {
+    if (Reveal.isReady()) initialise();
+    else Reveal.on('ready', initialise);
+  });
 })();
 </script>

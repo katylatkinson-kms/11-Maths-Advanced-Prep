@@ -1,0 +1,63 @@
+## Finish with positive indices {#positive}
+
+Work with one letter at a time. Write a factor with a negative index as a reciprocal.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$\dfrac{(3x^2y)^2}{6xy^3}$
+
+::: {.fragment}
+
+[Square each factor.]{.annotation}
+
+$=\dfrac{9x^4y^2}{6xy^3}$
+
+:::
+
+::: {.fragment}
+
+[Subtract the indices for each letter.]{.annotation}
+
+$=\dfrac{3}{2}x^{4-1}y^{2-3}$
+
+:::
+
+::: {.fragment}
+
+[Rewrite the negative power.]{.annotation}
+
+$=\dfrac{3}{2}x^3y^{-1}=\dfrac{3x^3}{2y}$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$\dfrac{(2ab^3)^2}{8a^3b}$
+
+Try it on paper, then select **Next** to check.
+
+:::
+
+::: {.fragment}
+
+[Check your working]{.annotation}
+
+$=\dfrac{4a^2b^6}{8a^3b}=\dfrac{1}{2}a^{-1}b^5$
+
+$=\dfrac{b^5}{2a}$
+
+:::
+
+:::::
+
+::::::

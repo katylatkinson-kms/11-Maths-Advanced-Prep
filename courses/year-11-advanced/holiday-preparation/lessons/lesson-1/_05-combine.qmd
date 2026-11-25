@@ -1,0 +1,63 @@
+## Subtract a negative index {#combine}
+
+Expand the numerator. When a denominator index is negative, put it in brackets before subtracting.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$\dfrac{(2a^{-1}b^3)^2}{8a^2b^{-1}}$
+
+::: {.fragment}
+
+[Square each factor.]{.annotation}
+
+$=\dfrac{4a^{-2}b^6}{8a^2b^{-1}}$
+
+:::
+
+::: {.fragment}
+
+[Subtract the denominator indices.]{.annotation}
+
+$=\dfrac{1}{2}a^{-2-2}b^{6-(-1)}$
+
+:::
+
+::: {.fragment}
+
+[Finish with positive indices.]{.annotation}
+
+$=\dfrac{1}{2}a^{-4}b^7=\dfrac{b^7}{2a^4}$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$\dfrac{(3x^{-1}y^2)^2}{6x^2y^{-1}}$
+
+Try it on paper, then select **Next** to check.
+
+:::
+
+::: {.fragment}
+
+[Check your working]{.annotation}
+
+$=\dfrac{9x^{-2}y^4}{6x^2y^{-1}}$
+
+$=\dfrac{3}{2}x^{-4}y^{4-(-1)}=\dfrac{3y^5}{2x^4}$
+
+:::
+
+:::::
+
+::::::

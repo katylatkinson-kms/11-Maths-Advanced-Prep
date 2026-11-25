@@ -1,0 +1,55 @@
+## Divide two powered fractions {#division}
+
+Simplify each fraction first. To divide, multiply by the reciprocal of the second fraction.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$\left(\dfrac{p^2}{q}\right)^2\div\left(\dfrac{p}{q^2}\right)^{-1}$
+
+::: {.fragment}
+
+[Apply each outside power.]{.annotation}
+
+$=\dfrac{p^4}{q^2}\div\dfrac{q^2}{p}$
+
+:::
+
+::: {.fragment}
+
+[Invert the divisor and multiply.]{.annotation}
+
+$=\dfrac{p^4}{q^2}\times\dfrac{p}{q^2}=\dfrac{p^5}{q^4}$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$\left(\dfrac{u}{v}\right)^2\div\left(\dfrac{u^2}{v}\right)^{-1}$
+
+Try it on paper, then select **Next** to check.
+
+:::
+
+::: {.fragment}
+
+[Check your working]{.annotation}
+
+$=\dfrac{u^2}{v^2}\div\dfrac{v}{u^2}$
+
+$=\dfrac{u^2}{v^2}\times\dfrac{u^2}{v}=\dfrac{u^4}{v^3}$
+
+:::
+
+:::::
+
+::::::

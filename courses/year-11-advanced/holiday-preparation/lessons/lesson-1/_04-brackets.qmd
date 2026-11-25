@@ -1,0 +1,55 @@
+## Identify the base {#brackets}
+
+Circle the base carrying the exponent. A coefficient outside that base stays in place.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$3x^{-2}\quad\text{and}\quad(3x)^{-2}$
+
+::: {.fragment}
+
+[The exponent belongs to x.]{.annotation}
+
+$3x^{-2}=3\cdot\dfrac{1}{x^2}=\dfrac{3}{x^2}$
+
+:::
+
+::: {.fragment}
+
+[The brackets make 3x the base.]{.annotation}
+
+$(3x)^{-2}=\dfrac{1}{(3x)^2}=\dfrac{1}{9x^2}$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$2y^{-3}\quad\text{and}\quad(2y)^{-3}$
+
+Try it on paper, then select **Next** to check.
+
+:::
+
+::: {.fragment}
+
+[Check your working]{.annotation}
+
+$2y^{-3}=\dfrac{2}{y^3}$
+
+$(2y)^{-3}=\dfrac{1}{(2y)^3}=\dfrac{1}{8y^3}$
+
+:::
+
+:::::
+
+::::::

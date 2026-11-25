@@ -70,7 +70,7 @@ A successful build alone does not mean the live website has been updated. The pu
 
 Propose the lesson sequence and obtain approval before creating lesson content. Keep course and program pages as ordinary HTML pages; use Reveal.js only for lessons.
 
-For Lesson 1, edit the numbered slide fragments in `courses/year-11-advanced/holiday-preparation/lessons/lesson-1/`. The final fragment contains the core and optional textbook allocations. Maths uses native MathML. Each worked question has student-controlled reveals.
+For Lesson 1, edit the numbered slide fragments in `courses/year-11-advanced/holiday-preparation/lessons/lesson-1/`. The final fragment contains the core and optional textbook allocations. Maths uses native MathML. Use cumulative Reveal.js fragments for the annotated steps, followed by a matching paper question in the adjacent column. Use LaTeX fractions for all mathematical quotients. The check buttons show feedback for the selected answer.
 
 Create each lesson master at `courses/year-11-advanced/holiday-preparation/lessons/lesson-N.qmd`. Store its slides at `courses/year-11-advanced/holiday-preparation/lessons/lesson-N/_*.qmd`, then include them in order:
 

@@ -1,0 +1,55 @@
+## Apply a power, then divide {#worked}
+
+Apply the outside power to every factor in the brackets. Then divide coefficients and subtract indices of like bases.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$\dfrac{(2a^3)^2}{4a^2}$
+
+::: {.fragment}
+
+[Square both factors.]{.annotation}
+
+$=\dfrac{4a^6}{4a^2}$
+
+:::
+
+::: {.fragment}
+
+[Divide and subtract indices.]{.annotation}
+
+$=a^{6-2}=a^4$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$\dfrac{(3t^2)^2}{3t}$
+
+Try it on paper, then select **Next** to check.
+
+:::
+
+::: {.fragment}
+
+[Check your working]{.annotation}
+
+$=\dfrac{9t^4}{3t}$
+
+$=3t^{4-1}=3t^3$
+
+:::
+
+:::::
+
+::::::

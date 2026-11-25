@@ -1,0 +1,39 @@
+## Check your index laws {#readiness}
+
+Simplify $\displaystyle\dfrac{(2x^2)^2}{x^5}$. Choose your answer to see feedback.
+
+<div class="index-check" role="group" aria-label="Choose the simplified expression">
+
+<button type="button" data-choice="a" aria-pressed="false">A. $4x$</button>
+<button type="button" data-choice="b" aria-pressed="false">B. $\dfrac{2}{x}$</button>
+<button type="button" data-choice="c" aria-pressed="false">C. $\dfrac{4}{x}$</button>
+<button type="button" data-choice="d" aria-pressed="false">D. $\dfrac{1}{4x}$</button>
+
+</div>
+
+<div class="check-feedback" aria-live="polite" aria-atomic="true">
+<div data-result="a" hidden>
+
+**Check the subtraction.** The numerator has $x^4$ and the denominator has $x^5$. Subtract $4-5$. Try again.
+
+</div>
+<div data-result="b" hidden>
+
+**Check the coefficient.** The outside square also applies to the $2$. Calculate $2^2$, then try again.
+
+</div>
+<div data-result="c" hidden>
+
+**Correct.** Square both factors, divide like bases, then write the reciprocal.
+
+$\dfrac{(2x^2)^2}{x^5}=\dfrac{4x^4}{x^5}=4x^{4-5}=4x^{-1}=\dfrac{4}{x}$
+
+</div>
+<div data-result="d" hidden>
+
+**Check which factor moves.** In $4x^{-1}$ the index belongs to $x$. Keep the $4$ in the numerator and try again.
+
+</div>
+</div>
+
+<button class="reset-check" type="button" hidden>Try again from the start</button>

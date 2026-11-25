@@ -1,0 +1,13 @@
+## Integer index laws {#laws}
+
+We are learning to simplify expressions using integer indices. I can give my final answer with positive indices.
+
+| Operation | Rule | Example |
+|:--|:--|:--|
+| Multiply like bases | $a^m a^n=a^{m+n}$ | $x^4 x^3=x^7$ |
+| Divide like bases | $\dfrac{a^m}{a^n}=a^{m-n}$ | $\dfrac{x^5}{x^2}=x^3$ |
+| Raise a power to a power | $(a^m)^n=a^{mn}$ | $(x^3)^2=x^6$ |
+| Raise to zero | $a^0=1$ | $(4x)^0=1,\quad 4x^0=4$ |
+| Use a negative index | $a^{-n}=\dfrac{1}{a^n}$ | $x^{-3}=\dfrac{1}{x^3}$ |
+
+Assume all variables are non-zero. Select **Next** to work through the examples one line at a time.
