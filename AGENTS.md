@@ -46,6 +46,8 @@ or verified syllabus source.
 The aim is preparation for Year 11, rather than comprehensive revision
 of the entire Year 10 course.
 
+When designing example pairs, vary one feature deliberately and invite students to predict its effect. Check whether the chosen numbers hide a step students need to see, such as coefficients simplifying to one. Use Craig Barton’s variation guidance when it supports the lesson goal.
+
 ## Approved sequence and practice
 
 Use the 20 lessons listed on the holiday program page. Start with integer indices, use PSF for monic and non-monic trinomials, and finish with simultaneous equations. In Lesson 1, centre the practice on Exercise 3B Q6 from the 2024 third edition of CambridgeMATHS NSW Year 10. Build subsequent lessons after their questions are approved.

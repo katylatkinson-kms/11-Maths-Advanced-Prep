@@ -7,6 +7,10 @@ format:
     css: ../../../../assets/lesson.css
     include-after-body: ../../../../assets/lesson-controls.html
     controls: false
+    progress: false
+    touch: false
+    keyboard: false
+    overview: false
     menu: false
     slide-number: false
     transition: none

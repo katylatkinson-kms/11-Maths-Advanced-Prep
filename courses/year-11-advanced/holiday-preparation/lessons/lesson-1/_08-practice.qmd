@@ -11,4 +11,4 @@ CambridgeMATHS NSW Year 10, Stage 5 Core & Advanced/Extension Paths, third editi
 
 **Optional after the 40 minutes:** Exercise 3B, p. 190, Q6(f), (h).
 
-[Revisit powers](#worked) · [Revisit division](#division) · [Return to program](../index.qmd)
+[Return to program](../index.qmd)

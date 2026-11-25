@@ -8,13 +8,13 @@ Apply the outside power to every factor in the brackets. Then divide coefficient
 
 <h3>Worked example</h3>
 
-$\dfrac{(2a^3)^2}{4a^2}$
+$\dfrac{(6a^3)^2}{2a^2}$
 
 ::: {.fragment}
 
 [Square both factors.]{.annotation}
 
-$=\dfrac{4a^6}{4a^2}$
+$=\dfrac{36a^6}{2a^2}$
 
 :::
 
@@ -22,7 +22,7 @@ $=\dfrac{4a^6}{4a^2}$
 
 [Divide and subtract indices.]{.annotation}
 
-$=a^{6-2}=a^4$
+$=\dfrac{36}{2}a^{6-2}=18a^4$
 
 :::
 
@@ -34,9 +34,9 @@ $=a^{6-2}=a^4$
 
 <h3>Your turn</h3>
 
-$\dfrac{(3t^2)^2}{3t}$
+$\dfrac{(6a^3)^2}{4a^2}$
 
-Try it on paper, then select **Next** to check.
+The denominator coefficient doubles. Predict the new coefficient, then simplify on paper.
 
 :::
 
@@ -44,9 +44,9 @@ Try it on paper, then select **Next** to check.
 
 [Check your working]{.annotation}
 
-$=\dfrac{9t^4}{3t}$
+$=\dfrac{36a^6}{4a^2}$
 
-$=3t^{4-1}=3t^3$
+$=\dfrac{36}{4}a^{6-2}=9a^4$
 
 :::
 
