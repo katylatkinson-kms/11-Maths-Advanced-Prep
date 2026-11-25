@@ -1,0 +1,14 @@
+## Textbook practice {#practice}
+
+CambridgeMATHS NSW Year 10, Stage 5 Core & Advanced/Extension Paths, third edition (2024).
+
+| Time | Core practice |
+|:--|:--|
+| 4 min | Exercise 3A, p. 184. Q4d and Q5d. |
+| 12 min | Exercise 3B, p. 190. Q6(a), (b), (c), (d). Expand each power before combining like bases. |
+| 18 min | Exercise 3B, p. 190. Q6(e), (g), (i). Show a separate line for each product or quotient. |
+| 6 min | Check Exercise 3B in the answers, p. 888. Redo your first error from a blank line. |
+
+**Optional after the 40 minutes:** Exercise 3B, p. 190, Q6(f), (h).
+
+[Revisit powers](#worked) · [Revisit division](#division) · [Return to program](../index.qmd)

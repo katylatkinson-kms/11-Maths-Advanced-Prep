@@ -1,0 +1,24 @@
+<script>
+(() => {
+  for (const form of document.querySelectorAll('.index-check')) {
+    const messages = form.querySelectorAll('[data-result]');
+    function show(result) {
+      for (const message of messages) {
+        message.hidden = message.dataset.result !== result;
+      }
+    }
+    form.addEventListener('submit', event => {
+      event.preventDefault();
+      const choice = form.querySelector('input:checked');
+      show(choice ? choice.value : 'empty');
+    });
+    form.addEventListener('change', () => show(null));
+    form.addEventListener('reset', () => {
+      show(null);
+      for (const panel of form.closest('section').querySelectorAll('details')) {
+        panel.open = false;
+      }
+    });
+  }
+})();
+</script>

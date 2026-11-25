@@ -14,7 +14,7 @@ A little practice now can make the start of Year 11 feel more familiar. Revisit 
 :::
 
 ::: {.status-note}
-**Coming soon** — your holiday preparation lessons are being developed.
+Begin with index laws. Lesson 1 includes worked examples, independent checks and selected questions from your Year 10 textbook.
 :::
 
 [Explore the program](courses/year-11-advanced/holiday-preparation/index.qmd){.btn .btn-primary}

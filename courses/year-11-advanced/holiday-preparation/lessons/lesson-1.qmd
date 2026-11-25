@@ -1,0 +1,28 @@
+---
+pagetitle: "Lesson 1 | Integer index laws"
+order: 1
+format:
+  revealjs:
+    html-math-method: mathml
+    css: ../../../../assets/lesson.css
+    include-after-body: ../../../../assets/lesson-controls.html
+    footer: "[Holiday program](../index.html)"
+---
+
+{{< include lesson-1/_01-recall.qmd >}}
+
+{{< include lesson-1/_02-laws.qmd >}}
+
+{{< include lesson-1/_03-worked.qmd >}}
+
+{{< include lesson-1/_04-independent.qmd >}}
+
+{{< include lesson-1/_05-coefficient.qmd >}}
+
+{{< include lesson-1/_06-zero.qmd >}}
+
+{{< include lesson-1/_07-division.qmd >}}
+
+{{< include lesson-1/_08-readiness.qmd >}}
+
+{{< include lesson-1/_09-practice.qmd >}}

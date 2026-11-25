@@ -2,7 +2,7 @@
 
 A Quarto website for Year 10 students preparing for the start of Year 11 Mathematics Advanced. Short, independent revision lessons will combine explanations, checks and worked examples with focused Year 10 textbook practice.
 
-The initial website is a placeholder with a homepage, course page and holiday program page. No lessons or textbook allocations have been published yet. See [AGENTS.md](AGENTS.md) for the authoring requirements.
+The program page lists the approved 20-lesson sequence. Lesson 1 on integer index laws includes independent checks and a textbook allocation centred on Exercise 3B Q6. Lessons 2–20 are planned. See [AGENTS.md](AGENTS.md) for the authoring requirements.
 
 ## Preview and render
 
@@ -61,12 +61,16 @@ A successful build alone does not mean the live website has been updated. The pu
 | `courses/year-11-advanced/holiday-preparation/index.qmd` | Program page and future lesson links |
 | `courses/year-11-advanced/holiday-preparation/lessons/_metadata.yml` | Reveal.js defaults scoped to lessons |
 | `assets/styles.css` | Shared webpage styling |
+| `assets/lesson.css` | Slide typography, maths and touch controls |
+| `assets/lesson-controls.html` | Local answer-check and reset behaviour |
 | `.quarto-version` | Quarto version used locally and in GitHub Actions |
 | `.github/workflows/publish-quarto.yml` | Build checks and manual publishing |
 
-## Adding lessons later
+## Adding or editing lessons
 
 Propose the lesson sequence and obtain approval before creating lesson content. Keep course and program pages as ordinary HTML pages; use Reveal.js only for lessons.
+
+For Lesson 1, edit the numbered slide fragments in `courses/year-11-advanced/holiday-preparation/lessons/lesson-1/`. The final fragment contains the core and optional textbook allocations. Maths uses native MathML. Each worked question has student-controlled reveals.
 
 Create each lesson master at `courses/year-11-advanced/holiday-preparation/lessons/lesson-N.qmd`. Store its slides at `courses/year-11-advanced/holiday-preparation/lessons/lesson-N/_*.qmd`, then include them in order:
 

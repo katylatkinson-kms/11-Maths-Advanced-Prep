@@ -1,0 +1,37 @@
+## Which base has the negative index? {#coefficient}
+
+A student writes $3x^{-2}=\dfrac{1}{3x^2}$. Choose the expression equivalent to $3x^{-2}$, then select **Check my answer**.
+
+<form class="index-check">
+<fieldset aria-label="Equivalent expression">
+
+<label><input type="radio" name="coefficient" value="a"> A. $\dfrac{1}{3x^2}$</label>
+<label><input type="radio" name="coefficient" value="b"> B. $\dfrac{3}{x^2}$</label>
+<label><input type="radio" name="coefficient" value="c"> C. $\dfrac{1}{9x^2}$</label>
+<label><input type="radio" name="coefficient" value="d"> D. $-3x^2$</label>
+
+</fieldset>
+<button type="submit">Check my answer</button>
+<button type="reset">Reset</button>
+<div aria-live="polite" class="choice-feedback">
+<p data-result="empty" hidden>Choose an answer first.</p>
+<p data-result="a" hidden>The 3 stays in the numerator. Only the factor x⁻² becomes a reciprocal.</p>
+<p data-result="b" hidden>Correct. 3x⁻² = 3(1/x²) = 3/x². The exponent applies only to x.</p>
+<p data-result="c" hidden>This would be correct for (3x)⁻². Check which factors are inside the power.</p>
+<p data-result="d" hidden>A negative exponent gives a reciprocal. For example, 2⁻² = ¼.</p>
+</div>
+</form>
+
+<details name="coefficient-working">
+<summary>Reminder and retry</summary>
+
+Circle the base to which the exponent belongs. Simplify $2y^{-3}$ and $(2y)^{-3}$ on paper.
+
+</details>
+
+<details name="coefficient-working">
+<summary>Check the retry</summary>
+
+$2y^{-3}=2/y^3$. With brackets, $(2y)^{-3}=1/(2y)^3=1/(8y^3)$.
+
+</details>

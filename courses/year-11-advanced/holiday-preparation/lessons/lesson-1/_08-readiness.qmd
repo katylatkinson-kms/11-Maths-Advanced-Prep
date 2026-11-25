@@ -1,0 +1,33 @@
+## Ready for Exercise 3B Q6? {#readiness}
+
+Work without a reminder first. Simplify with positive indices. Explain the exponent of $b$ in one sentence.
+
+$$\frac{(2a^{-1}b^3)^2}{8a^2b^{-1}}$$
+
+<details name="readiness-working">
+<summary>Reminder</summary>
+
+Expand the numerator, then subtract denominator indices. Keep brackets around a subtracted negative index.
+
+</details>
+
+<details name="readiness-working">
+<summary>Check my working</summary>
+
+$\dfrac{4a^{-2}b^6}{8a^2b^{-1}}=\dfrac12a^{-2-2}b^{6-(-1)}=\dfrac{b^7}{2a^4}$. The exponent of $b$ is $7$ because dividing by $b^{-1}$ multiplies by $b$. If your coefficient, exponents and explanation agree, move to practice.
+
+</details>
+
+<details name="readiness-working">
+<summary>Try a similar question</summary>
+
+Simplify $\dfrac{(3x^{-1}y^2)^2}{6x^2y^{-1}}$. Explain where the negative power of $x$ goes.
+
+</details>
+
+<details name="readiness-working">
+<summary>Check the retry</summary>
+
+$\dfrac{9x^{-2}y^4}{6x^2y^{-1}}=\dfrac32 x^{-4}y^5=\dfrac{3y^5}{2x^4}$. If the exponent subtraction still feels uncertain, revisit [Track one base at a time](#worked).
+
+</details>

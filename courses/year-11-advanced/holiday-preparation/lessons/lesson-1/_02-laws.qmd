@@ -1,0 +1,13 @@
+## Choose the law from the operation {#laws}
+
+We are learning to combine integer index laws in expressions with several variables.
+
+I can simplify a product or quotient, explain how each exponent changes and finish with positive indices.
+
+| Operation | Index law | Example |
+|:--|:--|:--|
+| Multiply like bases | $x^m x^n=x^{m+n}$ | $x^3 x^2=x^5$ |
+| Divide like bases | $x^m/x^n=x^{m-n}$ | $x^3/x^5=x^{-2}=1/x^2$ |
+| Raise a power to a power | $(x^m)^n=x^{mn}$ | $(x^3)^2=x^6$ |
+
+A non-zero base raised to zero equals $1$. This follows from $x^m/x^m=x^{m-m}=x^0$.
