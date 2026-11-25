@@ -4,10 +4,10 @@ CambridgeMATHS NSW Year 10, Stage 5 Core & Advanced/Extension Paths, third editi
 
 | Time | Core practice |
 |:--|:--|
-| 4 min | Exercise 3A, p. 184. Q4d and Q5d. |
-| 12 min | Exercise 3B, p. 190. Q6(a), (b), (c), (d). Expand each power before combining like bases. |
-| 18 min | Exercise 3B, p. 190. Q6(e), (g), (i). Show a separate line for each product or quotient. |
-| 6 min | Check Exercise 3B in the answers, p. 888. Redo your first error from a blank line. |
+| 6 min | Exercise 3A, p. 184. Q3(a, d), Q4(a, d), Q5(a, d). |
+| 8 min | Exercise 3B, pp. 190–191. Q3(a, d), Q4(a, d) and Q9. For Q9, explain the error. |
+| 21 min | Exercise 3B, p. 190. Q6(a, b, c, d, e, g, i). Show each step and finish with positive indices. |
+| 5 min | Check your answers on pp. 887–888 and redo any part you missed. |
 
 **Optional after the 40 minutes:** Exercise 3B, p. 190, Q6(f), (h).
 
