@@ -1,0 +1,55 @@
+## Write a root in index form {#root-form}
+
+Read the root from the radical sign and the power from the expression inside. Keep the coefficient outside.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$5\sqrt[3]{x^2}$
+
+::: {.fragment}
+
+[The cube root gives a denominator of 3.]{.annotation}
+
+$=5(x^2)^{\frac13}$
+
+:::
+
+::: {.fragment}
+
+[Multiply the indices. The coefficient stays 5.]{.annotation}
+
+$=5x^{2\times\frac13}=5x^{\frac23}$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$5\sqrt[4]{x^2}$
+
+Only the root changes. Write the expression in index form and simplify the index.
+
+:::
+
+::: {.fragment}
+
+[Check your working]{.annotation}
+
+$=5(x^2)^{\frac14}$
+
+$=5x^{\frac24}=5x^{\frac12}$
+
+:::
+
+:::::
+
+::::::

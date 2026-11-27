@@ -1,0 +1,13 @@
+## Textbook practice {#practice}
+
+CambridgeMATHS NSW Year 10, Stage 5 Core & Advanced/Extension Paths, third edition (2024). **Exercise 3D.**
+
+| Time | Core practice |
+|:--|:--|
+| 5 min | pp. 200–201. Q2(a, c), Q3(a, c). Convert between root and index form. |
+| 7 min | p. 201. Q4(a, d), Q5(a, c, f). Evaluate without a calculator. |
+| 10 min | p. 201. Q6(a, c), Q7(j, k). Simplify products, quotients and powers. |
+| 13 min | p. 202. Q8(a, b). Choose a method and use it with whole-number and fractional bases. |
+| 5 min | Check your answers on p. 889. Identify a root, power or reciprocal error and redo that part. If all are correct, check Q5(f) a second way. |
+
+[Return to program](../index.qmd)

@@ -1,0 +1,41 @@
+## Check your fractional indices {#readiness}
+
+Simplify $(8x^6)^{-\frac23}$ for $x>0$. Choose the expression that is equivalent for every positive $x$ and uses positive indices.
+
+<div class="index-check" role="group" aria-label="Choose the simplified expression">
+
+<button type="button" data-choice="a" aria-pressed="false">A. $4x^4$</button>
+<button type="button" data-choice="b" aria-pressed="false">B. $\dfrac{1}{2x^2}$</button>
+<button type="button" data-choice="c" aria-pressed="false">C. $\dfrac{1}{4x^4}$</button>
+<button type="button" data-choice="d" aria-pressed="false">D. $-4x^4$</button>
+
+</div>
+
+<div class="check-feedback" aria-live="polite" aria-atomic="true">
+<div data-result="a" hidden>
+
+**Check the sign of the index.** Your root and power are correct. What final step does the negative index require? Try again.
+
+</div>
+<div data-result="b" hidden>
+
+**Check the numerator of the index.** You took the cube root and the reciprocal. The numerator is 2, so square the cube root as well. Try again.
+
+</div>
+<div data-result="c" hidden>
+
+**Correct.** Take the cube root: $\sqrt[3]{8x^6}=2x^2$.
+
+Square it: $(2x^2)^2=4x^4$.
+
+Take the reciprocal: $(8x^6)^{-\frac23}=\dfrac{1}{4x^4}$.
+
+</div>
+<div data-result="d" hidden>
+
+**Check what the minus sign means.** A negative index tells you to take a reciprocal. The base is positive, so the result is positive. Try again.
+
+</div>
+</div>
+
+<button class="reset-check" type="button" hidden>Try again from the start</button>

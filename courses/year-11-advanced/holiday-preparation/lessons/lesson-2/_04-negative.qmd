@@ -1,0 +1,55 @@
+## Use the sign of the index {#negative}
+
+Evaluate the positive fractional power first. If the index is negative, take the reciprocal.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$125^{\frac23}$
+
+::: {.fragment}
+
+[Take the cube root, then square.]{.annotation}
+
+$=(\sqrt[3]{125})^2$
+
+:::
+
+::: {.fragment}
+
+[Use the cube root of 125.]{.annotation}
+
+$=5^2=25$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$125^{-\frac23}$
+
+Only the sign of the index changes. Use the worked example to find the new value.
+
+:::
+
+::: {.fragment}
+
+[Check your working]{.annotation}
+
+$=\dfrac{1}{125^{\frac23}}$
+
+$=\dfrac{1}{5^2}=\dfrac{1}{25}$
+
+:::
+
+:::::
+
+::::::

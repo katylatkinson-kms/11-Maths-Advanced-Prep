@@ -1,0 +1,55 @@
+## Take the root, then apply the power {#evaluate}
+
+To evaluate without a calculator, take the root first. Raise that result to the numerator’s power.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$32^{\frac25}$
+
+::: {.fragment}
+
+[The denominator 5 tells you to take the fifth root.]{.annotation}
+
+$=(\sqrt[5]{32})^2$
+
+:::
+
+::: {.fragment}
+
+[The fifth root is 2. Square it.]{.annotation}
+
+$=2^2=4$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$32^{\frac35}$
+
+Which step changes when the numerator goes from 2 to 3? Predict, then evaluate on paper.
+
+:::
+
+::: {.fragment}
+
+[Check your working]{.annotation}
+
+$=(\sqrt[5]{32})^3$
+
+$=2^3=8$
+
+:::
+
+:::::
+
+::::::

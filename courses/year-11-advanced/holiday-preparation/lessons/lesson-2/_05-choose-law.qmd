@@ -1,0 +1,55 @@
+## Choose the index law {#choose-law}
+
+For like bases, add the indices when multiplying and subtract them when dividing. Use a common denominator for the arithmetic.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$x^{\frac34}\times x^{\frac12}$
+
+::: {.fragment}
+
+[Multiply like bases. Add their indices.]{.annotation}
+
+$=x^{\frac34+\frac12}$
+
+:::
+
+::: {.fragment}
+
+[Write both indices in quarters.]{.annotation}
+
+$=x^{\frac34+\frac24}=x^{\frac54}$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$x^{\frac34}\div x^{\frac12}$
+
+The operation changes to division. Choose the law, then simplify on paper.
+
+:::
+
+::: {.fragment}
+
+[Check your working]{.annotation}
+
+$=x^{\frac34-\frac12}$
+
+$=x^{\frac34-\frac24}=x^{\frac14}$
+
+:::
+
+:::::
+
+::::::

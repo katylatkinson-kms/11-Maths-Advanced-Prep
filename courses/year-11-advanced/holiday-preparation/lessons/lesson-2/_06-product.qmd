@@ -1,0 +1,55 @@
+## Apply the power to every factor {#product}
+
+When the whole product is in brackets, apply the fractional power to the coefficient and the variable.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$(27x^6)^{\frac13}$
+
+::: {.fragment}
+
+[Apply the exponent to both factors.]{.annotation}
+
+$=27^{\frac13}x^{6\times\frac13}$
+
+:::
+
+::: {.fragment}
+
+[Take the cube root of 27 and simplify the index.]{.annotation}
+
+$=3x^2$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$(27x^6)^{\frac23}$
+
+The root stays the same. Use the cube root on the left, then square the entire result.
+
+:::
+
+::: {.fragment}
+
+[Check your working]{.annotation}
+
+$=(\sqrt[3]{27x^6})^2$
+
+$=(3x^2)^2=9x^4$
+
+:::
+
+:::::
+
+::::::

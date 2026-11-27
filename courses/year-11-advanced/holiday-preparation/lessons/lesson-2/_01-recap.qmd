@@ -1,0 +1,13 @@
+## Fractional indices {#recap}
+
+We are learning to convert between root and index form and simplify expressions involving positive and negative fractional indices.
+
+I can evaluate a fractional power without a calculator and use the same procedure with algebra.
+
+| Read the index | Rule for a positive base $a$ |
+|:--|:--|
+| The denominator gives the root. | $a^{\frac{1}{n}}=\sqrt[n]{a}$ |
+| The numerator gives the power. | $a^{\frac{m}{n}}=(\sqrt[n]{a})^m$ |
+| A negative index gives a reciprocal. | $a^{-\frac{m}{n}}=\dfrac{1}{a^{\frac{m}{n}}}$ |
+
+For example, $16^{\frac12}=\sqrt{16}=4$. Assume all bases are positive throughout. Select **Next** for the first example.

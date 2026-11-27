@@ -2,7 +2,7 @@
 
 A Quarto website for Year 10 students preparing for the start of Year 11 Mathematics Advanced. Short, independent revision lessons will combine explanations, checks and worked examples with focused Year 10 textbook practice.
 
-The program page lists the approved 20-lesson sequence. Lesson 1 on integer index laws includes independent checks and a textbook allocation centred on Exercise 3B Q6. Lessons 2–20 are planned. See [AGENTS.md](AGENTS.md) for the authoring requirements.
+The program page lists the approved 20-lesson sequence. Lesson 1 on integer index laws includes independent checks and a textbook allocation centred on Exercise 3B Q6. Lesson 2 covers fractional indices and uses Exercise 3D. Lessons 3–20 are planned. See [AGENTS.md](AGENTS.md) for the authoring requirements.
 
 ## Preview and render
 

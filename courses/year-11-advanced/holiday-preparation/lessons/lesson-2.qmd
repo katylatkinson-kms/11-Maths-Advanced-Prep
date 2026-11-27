@@ -1,0 +1,33 @@
+---
+pagetitle: "Lesson 2 | Fractional indices"
+order: 2
+format:
+  revealjs:
+    html-math-method: mathml
+    css: ../../../../assets/lesson.css
+    include-after-body: ../../../../assets/lesson-controls.html
+    controls: false
+    progress: false
+    touch: false
+    keyboard: false
+    overview: false
+    menu: false
+    slide-number: false
+    transition: none
+---
+
+{{< include lesson-2/_01-recap.qmd >}}
+
+{{< include lesson-2/_02-root-form.qmd >}}
+
+{{< include lesson-2/_03-evaluate.qmd >}}
+
+{{< include lesson-2/_04-negative.qmd >}}
+
+{{< include lesson-2/_05-choose-law.qmd >}}
+
+{{< include lesson-2/_06-product.qmd >}}
+
+{{< include lesson-2/_07-readiness.qmd >}}
+
+{{< include lesson-2/_08-practice.qmd >}}
