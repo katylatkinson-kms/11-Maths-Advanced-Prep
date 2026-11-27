@@ -1,0 +1,65 @@
+## Decide whether to factorise again
+
+Start with the highest common factor. Then inspect the expression inside the bracket.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$12x^2-75$
+
+::: {.fragment}
+
+[Take out 3. What pattern remains?]{.annotation}
+
+$=3(4x^2-25)$
+
+:::
+
+::: {.fragment}
+
+[Identify two squares.]{.annotation}
+
+$=3\big((2x)^2-5^2\big)$
+
+:::
+
+::: {.fragment}
+
+[Keep the factor 3 outside.]{.annotation}
+
+$=3(2x-5)(2x+5)$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$12x^2-147$
+
+Factorise fully. Expand your answer to check.
+
+:::
+
+::: {.fragment}
+
+[Check your working]{.annotation}
+
+$=3(4x^2-49)$
+
+$=3(2x-7)(2x+7)$
+
+Check: $3(4x^2-49)=12x^2-147$.
+
+:::
+
+:::::
+
+::::::

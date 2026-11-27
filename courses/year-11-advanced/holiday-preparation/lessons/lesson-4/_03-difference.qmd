@@ -1,0 +1,55 @@
+## Recognise a difference of two squares
+
+Look for two square terms separated by subtraction. Use $a^2-b^2=(a-b)(a+b)$.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$9x^2-25$
+
+::: {.fragment}
+
+[Write each term as a square.]{.annotation}
+
+$=(3x)^2-5^2$
+
+:::
+
+::: {.fragment}
+
+[Use the same two terms in both brackets.]{.annotation}
+
+$=(3x-5)(3x+5)$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$9x^2-49$
+
+Which number changes in the brackets? Factorise on paper.
+
+:::
+
+::: {.fragment}
+
+[Check your working]{.annotation}
+
+$=(3x)^2-7^2$
+
+$=(3x-7)(3x+7)$
+
+:::
+
+:::::
+
+::::::

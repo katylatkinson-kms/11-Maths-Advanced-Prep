@@ -1,0 +1,33 @@
+---
+pagetitle: "Lesson 4 | Factorising fully"
+order: 4
+format:
+  revealjs:
+    html-math-method: mathml
+    css: ../../../../assets/lesson.css
+    include-after-body: ../../../../assets/lesson-controls.html
+    controls: false
+    progress: false
+    touch: false
+    keyboard: false
+    overview: false
+    menu: false
+    slide-number: false
+    transition: none
+---
+
+{{< include lesson-4/_01-expansion-recall.qmd >}}
+
+{{< include lesson-4/_02-common-factor.qmd >}}
+
+{{< include lesson-4/_03-difference.qmd >}}
+
+{{< include lesson-4/_04-square.qmd >}}
+
+{{< include lesson-4/_05-grouping.qmd >}}
+
+{{< include lesson-4/_06-fully.qmd >}}
+
+{{< include lesson-4/_07-check.qmd >}}
+
+{{< include lesson-4/_08-practice.qmd >}}

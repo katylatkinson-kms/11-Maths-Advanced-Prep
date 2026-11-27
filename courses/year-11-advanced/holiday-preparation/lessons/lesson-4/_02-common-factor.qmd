@@ -1,0 +1,63 @@
+## Take out the highest common factor
+
+Find the largest factor shared by every term. Divide each term by it to fill the bracket.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$12x^2+18x$
+
+::: {.fragment}
+
+[Both coefficients share 6. Both terms contain $x$.]{.annotation}
+
+Highest common factor: $6x$.
+
+:::
+
+::: {.fragment}
+
+[Find the two missing factors.]{.annotation}
+
+$6x(2x)=12x^2$ and $6x(3)=18x$.
+
+:::
+
+::: {.fragment}
+
+[Write the product.]{.annotation}
+
+$12x^2+18x=6x(2x+3)$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$12x^2-18x$
+
+Predict what changes when the second term is negative. Factorise on paper.
+
+:::
+
+::: {.fragment}
+
+[Check your working]{.annotation}
+
+The common factor is $6x$. The second term in the bracket is $-3$.
+
+$12x^2-18x=6x(2x-3)$.
+
+:::
+
+:::::
+
+::::::

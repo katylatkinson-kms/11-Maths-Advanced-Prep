@@ -1,0 +1,13 @@
+## Textbook practice {#practice}
+
+CambridgeMATHS NSW Year 10, Stage 5 Core & Advanced/Extension Paths, third edition (2024). Use **Exercise 5B** unless marked 5D.
+
+| Time | Core practice |
+|:--|:--|
+| 8 min | p. 371, Q1(d, k, r), Q2(c). Look for a common factor, including a whole bracket. |
+| 7 min | p. 371, Q3(e, h, i). Identify each square before factorising. |
+| 9 min | p. 372, Q6(a, d, f). Show the matching brackets before taking out the common factor. |
+| 11 min | Choose your method: p. 371, Q4(b, g); **5D** p. 382, Q3(d); then **5B** p. 372, Q7(a). For Q7(a), try pairing the two terms containing $x$. |
+| 5 min | Check 5B on pp. 906–907 and 5D on p. 908. Redo a missed part. If all are correct, expand your answer to Q7(a) to check. |
+
+[Return to program](../index.qmd)

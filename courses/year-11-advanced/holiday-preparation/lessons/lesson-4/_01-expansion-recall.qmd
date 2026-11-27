@@ -1,5 +1,7 @@
 ## Recall: expand three expressions {#expansion-recall}
 
+We are learning to factorise fully. I can choose a method, check for another factor and expand to verify my answer.
+
 Close your notes. Allow about three minutes. Expand each expression on paper, then select **Next** to check one answer at a time.
 
 | A | B | C |

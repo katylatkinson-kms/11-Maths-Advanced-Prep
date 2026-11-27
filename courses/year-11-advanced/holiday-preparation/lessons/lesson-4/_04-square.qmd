@@ -1,0 +1,73 @@
+## Recognise a perfect-square trinomial
+
+Identify the squares at each end. Check that the middle term equals twice the product of their bases, with the appropriate sign.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$9x^2-30x+25$
+
+::: {.fragment}
+
+[Identify the squares.]{.annotation}
+
+$9x^2=(3x)^2$ and $25=5^2$.
+
+:::
+
+::: {.fragment}
+
+[Check the middle term.]{.annotation}
+
+$-2(3x)(5)=-30x$
+
+:::
+
+::: {.fragment}
+
+[Use the minus sign inside the bracket.]{.annotation}
+
+$9x^2-30x+25=(3x-5)^2$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$9x^2+30x+25$
+
+Factorise on paper. Which sign changes?
+
+:::
+
+::: {.fragment}
+
+[Check your working]{.annotation}
+
+$2(3x)(5)=30x$, so the factorisation is $(3x+5)^2$.
+
+:::
+
+::: {.fragment}
+
+**Quick check.** Is $9x^2+29x+25$ a perfect square? Decide before selecting Next.
+
+:::
+
+::: {.fragment}
+
+The middle term would have to be $30x$. The $29x$ rules out a perfect square.
+
+:::
+
+:::::
+
+::::::

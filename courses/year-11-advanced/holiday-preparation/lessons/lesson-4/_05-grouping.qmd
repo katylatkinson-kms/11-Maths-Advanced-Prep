@@ -1,0 +1,67 @@
+## Factorise by grouping
+
+Group the four terms into pairs. Factorise each pair, then take out the bracket they share.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$ax+3a+2x+6$
+
+::: {.fragment}
+
+[Group the first two and last two terms.]{.annotation}
+
+$=(ax+3a)+(2x+6)$
+
+:::
+
+::: {.fragment}
+
+[Take out $a$ and $2$.]{.annotation}
+
+$=a(x+3)+2(x+3)$
+
+:::
+
+::: {.fragment}
+
+[Take out the shared bracket $x+3$.]{.annotation}
+
+$=(a+2)(x+3)$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$ax+3a-2x-6$
+
+Which factor will give you $x+3$ in the second pair? Factorise on paper.
+
+:::
+
+::: {.fragment}
+
+[Check your working]{.annotation}
+
+The second pair is $-2(x+3)$.
+
+$ax+3a-2x-6$
+
+$=a(x+3)-2(x+3)$
+
+$=(a-2)(x+3)$
+
+:::
+
+:::::
+
+::::::
