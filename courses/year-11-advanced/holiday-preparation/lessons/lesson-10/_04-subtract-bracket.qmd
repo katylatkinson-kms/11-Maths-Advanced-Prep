@@ -1,0 +1,74 @@
+## Subtracting a bracket {#subtract-bracket}
+
+In $-2(x+3)$, the multiplier is **$-2$**. Multiply both terms inside the bracket by $-2$.
+
+:::::: {.example-pair}
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$5x-2(x+3)=x+10$
+
+::: {.fragment}
+
+[Multiply both terms by $-2$.]{.annotation}
+
+$5x-2x-6=x+10$
+
+:::
+::: {.fragment}
+
+[Collect like terms on the left.]{.annotation}
+
+$3x-6=x+10$
+
+:::
+::: {.fragment}
+
+[Subtract $x$ from both sides.]{.annotation}
+
+$2x-6=10$
+
+:::
+::: {.fragment}
+
+[Add $6$ to both sides.]{.annotation}
+
+$2x=16$
+
+:::
+::: {.fragment}
+
+[Divide both sides by $2$.]{.annotation}
+
+$\dfrac{2x}{2}=\dfrac{16}{2}\quad\Rightarrow\quad x=8$
+
+:::
+:::::
+::::: {.paper}
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$5x-2(x-3)=x+10$
+
+Only the sign inside the bracket changes. Predict the sign of the expanded constant, then solve.
+
+:::
+::: {.fragment}
+
+[Check your working]{.annotation}
+
+$\begin{aligned}
+5x-2x+6&=x+10\\
+3x+6&=x+10\\
+2x+6&=10\\
+2x&=4\\
+x&=2
+\end{aligned}$
+
+Here $(-2)(-3)=+6$. Keep that sign when simplifying.
+
+:::
+:::::
+::::::

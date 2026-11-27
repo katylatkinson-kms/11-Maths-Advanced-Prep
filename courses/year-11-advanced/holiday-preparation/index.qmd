@@ -9,7 +9,7 @@ Allow 15–20 minutes for each lesson and about 40 minutes for textbook practice
 
 ## Lesson sequence
 
-Lessons 1–3 are ready. Lessons 4–20 are planned.
+Lessons 1–3 and 10 are ready. Lessons 4–9 and 11–20 are planned.
 
 
 ### Indices and expansion
@@ -35,7 +35,7 @@ Lessons 1–3 are ready. Lessons 4–20 are planned.
 
 | Lesson | Focus | Revisit first |
 |:--|:--|:--|
-| 10. Linear equations with brackets | Solve equations with unknowns on both sides and check by substitution. | 3 |
+| [10. Linear equations with brackets](lessons/lesson-10.qmd) | Solve equations with unknowns on both sides and check by substitution. | 3 |
 | 11. Linear equations with fractions | Clear the denominators from every term before solving. | 9, 10 |
 
 ### Quadratics

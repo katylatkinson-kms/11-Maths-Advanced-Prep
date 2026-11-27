@@ -1,0 +1,67 @@
+## One bracket, unknowns on both sides {#one-bracket}
+
+Expand the bracket first. Keep the equation balanced as you gather the unknown terms and isolate $x$.
+
+:::::: {.example-pair}
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$4(x+3)=2x+18$
+
+::: {.fragment}
+
+[Expand the bracket.]{.annotation}
+
+$4x+12=2x+18$
+
+:::
+::: {.fragment}
+
+[Subtract $2x$ from both sides.]{.annotation}
+
+$2x+12=18$
+
+:::
+::: {.fragment}
+
+[Subtract $12$ from both sides.]{.annotation}
+
+$2x=6$
+
+:::
+::: {.fragment}
+
+[Divide both sides by $2$.]{.annotation}
+
+$\dfrac{2x}{2}=\dfrac{6}{2}\quad\Rightarrow\quad x=3$
+
+:::
+:::::
+::::: {.paper}
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$4(x-3)=2x+18$
+
+Only the sign inside the bracket changes. What changes after expansion? Solve on paper.
+
+:::
+::: {.fragment}
+
+[Check your working]{.annotation}
+
+$\begin{aligned}
+4x-12&=2x+18\\
+2x-12&=18\\
+2x&=30\\
+\dfrac{2x}{2}&=\dfrac{30}{2}\\
+x&=15
+\end{aligned}$
+
+The constant is now $-12$, so add $12$ to both sides.
+
+:::
+:::::
+::::::

@@ -1,0 +1,18 @@
+## Keep the equation balanced {#recap}
+
+**Lesson 10 · Linear equations with brackets · About 20 minutes**
+
+**We are learning to** solve linear equations involving brackets and unknowns on both sides.
+
+**I can** expand and simplify an equation, isolate the unknown using equal operations on both sides, and verify my solution by substitution.
+
+An equation says that two expressions have the same value.
+
+- Add or subtract the **same quantity** on both sides.
+- Multiply or divide both sides by the **same non-zero number**.
+
+These operations preserve the solutions. Choose an operation that makes the equation simpler.
+
+**Our approach:** expand and simplify; gather the unknown terms; isolate the unknown; check in the original equation.
+
+Have paper ready. Use **Next** to reveal each step, then attempt each **Your turn** before revealing its solution.

@@ -1,0 +1,14 @@
+## Textbook practice {#practice}
+
+CambridgeMATHS NSW Year 10, Stage 5 Core & Advanced/Extension Paths, third edition (2024).
+
+| Time | Core practice |
+|:--|:--|
+| 10 min | **Exercise 1B, p. 13: Q2(c, d, e, f).** Solve and check each answer by substitution. |
+| 21 min | **Exercise 1B, p. 13: Q2(g, i, j, k, l, m, n, o).** Show each step and check in the original equation. |
+| 4 min | **Exercise 1B, p. 15: Q13(a, b).** Solve both ways, choose a method and explain your preference. |
+| 5 min | Check against the **answers on p. 858**. Find the first incorrect line and redo any part you missed. |
+
+**If you get stuck:** revisit “Subtracting a bracket” for sign errors, “Two valid ways to start” for method choice, or “Check in the original equation” for substitution.
+
+[Return to program](../index.qmd)

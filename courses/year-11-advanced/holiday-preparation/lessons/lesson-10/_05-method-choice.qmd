@@ -1,0 +1,75 @@
+## Two valid ways to start {#method-choice}
+
+Solve $3(x-2)+6=-27$. Expanding works; dividing both sides first can also simplify the equation.
+
+:::::: {.example-pair}
+::::: {.model}
+
+<h3>Expand first</h3>
+
+$3(x-2)+6=-27$
+
+::: {.fragment}
+
+[Expand the bracket.]{.annotation}
+
+$3x-6+6=-27$
+
+:::
+::: {.fragment}
+
+[Collect like terms.]{.annotation}
+
+$3x=-27$
+
+:::
+::: {.fragment}
+
+[Divide both sides by $3$.]{.annotation}
+
+$\dfrac{3x}{3}=\dfrac{-27}{3}$
+
+:::
+::: {.fragment}
+
+$x=-9$
+
+:::
+:::::
+::::: {.paper}
+::: {.fragment}
+
+<h3>Divide every term by $3$ first</h3>
+
+$3(x-2)+6=-27$
+
+:::
+::: {.fragment}
+
+[Divide the whole of each side.]{.annotation}
+
+$\dfrac{3(x-2)}{3}+\dfrac{6}{3}=\dfrac{-27}{3}$
+
+:::
+::: {.fragment}
+
+[Simplify each quotient.]{.annotation}
+
+$(x-2)+2=-9$
+
+:::
+::: {.fragment}
+
+[Collect like terms.]{.annotation}
+
+$x=-9$
+
+:::
+:::::
+::::::
+
+::: {.fragment}
+
+**Both methods preserve equality.** Dividing first means dividing **every term** by $3$, including the $+6$.
+
+:::

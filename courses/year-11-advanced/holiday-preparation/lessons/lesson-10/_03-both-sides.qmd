@@ -1,0 +1,67 @@
+## Brackets on both sides {#both-sides}
+
+Expand each side before gathering the unknown terms. A negative or fractional solution can be correct.
+
+:::::: {.example-pair}
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$4(2x-3)=3(x+6)$
+
+::: {.fragment}
+
+[Expand both brackets.]{.annotation}
+
+$8x-12=3x+18$
+
+:::
+::: {.fragment}
+
+[Subtract $3x$ from both sides.]{.annotation}
+
+$5x-12=18$
+
+:::
+::: {.fragment}
+
+[Add $12$ to both sides.]{.annotation}
+
+$5x=30$
+
+:::
+::: {.fragment}
+
+[Divide both sides by $5$.]{.annotation}
+
+$\dfrac{5x}{5}=\dfrac{30}{5}\quad\Rightarrow\quad x=6$
+
+:::
+:::::
+::::: {.paper}
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$4(2x-3)=3(x-6)$
+
+Only $+6$ changes to $-6$. Solve on paper and leave your answer as an exact fraction.
+
+:::
+::: {.fragment}
+
+[Check your working]{.annotation}
+
+$\begin{aligned}
+8x-12&=3x-18\\
+5x-12&=-18\\
+5x&=-6\\
+\dfrac{5x}{5}&=\dfrac{-6}{5}\\
+x&=-\dfrac65
+\end{aligned}$
+
+The right-hand constant changes sign; the solving method stays the same.
+
+:::
+:::::
+::::::

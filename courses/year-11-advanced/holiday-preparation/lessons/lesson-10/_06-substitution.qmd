@@ -1,0 +1,53 @@
+## Check in the original equation {#substitution}
+
+We found $x=2$ for $5x-2(x-3)=x+10$. Substitute into the **original equation** so an expansion error cannot hide in the check.
+
+:::::: {.example-pair}
+::::: {.model}
+
+<h3>Left-hand side</h3>
+
+::: {.fragment}
+
+$5(2)-2(2-3)$
+
+:::
+::: {.fragment}
+
+$=10-2(-1)$
+
+:::
+::: {.fragment}
+
+$=10+2=12$
+
+:::
+:::::
+::::: {.paper}
+::: {.fragment}
+
+<h3>Right-hand side</h3>
+
+$2+10=12$
+
+:::
+::: {.fragment}
+
+Both sides equal $12$, so $x=2$ is a solution.
+
+:::
+:::::
+::::::
+
+::: {.fragment}
+
+**On paper:** check your solution $x=15$ in $4(x-3)=2x+18$. Calculate each side separately before selecting Next.
+
+:::
+::: {.fragment}
+
+$\text{LHS}=4(15-3)=48,\qquad \text{RHS}=2(15)+18=48.$
+
+The two sides agree, so the solution is verified.
+
+:::

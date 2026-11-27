@@ -1,0 +1,33 @@
+---
+pagetitle: "Lesson 10 | Linear equations with brackets"
+order: 10
+format:
+  revealjs:
+    html-math-method: mathml
+    css: ../../../../assets/lesson.css
+    include-after-body: ../../../../assets/lesson-controls.html
+    controls: false
+    progress: false
+    touch: false
+    keyboard: false
+    overview: false
+    menu: false
+    slide-number: false
+    transition: none
+---
+
+{{< include lesson-10/_01-recap.qmd >}}
+
+{{< include lesson-10/_02-one-bracket.qmd >}}
+
+{{< include lesson-10/_03-both-sides.qmd >}}
+
+{{< include lesson-10/_04-subtract-bracket.qmd >}}
+
+{{< include lesson-10/_05-method-choice.qmd >}}
+
+{{< include lesson-10/_06-substitution.qmd >}}
+
+{{< include lesson-10/_07-readiness.qmd >}}
+
+{{< include lesson-10/_08-practice.qmd >}}
