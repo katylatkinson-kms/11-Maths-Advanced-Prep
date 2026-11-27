@@ -1,0 +1,67 @@
+## Spot a perfect square {#perfect-square}
+
+Look for two identical brackets or one bracket squared. Use $(a+b)^2=a^2+2ab+b^2$.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$(2x+5)^2$
+
+::: {.fragment}
+
+[Identify the two terms.]{.annotation}
+
+$a=2x$, $b=5$
+
+:::
+
+::: {.fragment}
+
+[Substitute into the identity.]{.annotation}
+
+$(2x+5)^2=(2x)^2+2(2x)(5)+5^2$
+
+:::
+
+::: {.fragment}
+
+[The two FOIL cross products give $10x+10x$.]{.annotation}
+
+$=4x^2+20x+25$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$(2x-5)^2$
+
+Use the same identity. What value of $b$ gives the minus sign? Expand on paper.
+
+:::
+
+::: {.fragment}
+
+[Check your working]{.annotation}
+
+$a=2x$, $b=-5$
+
+$=(2x)^2+2(2x)(-5)+(-5)^2$
+
+$=4x^2-20x+25$
+
+Squaring $-5$ gives $+25$.
+
+:::
+
+:::::
+
+::::::

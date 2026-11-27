@@ -1,0 +1,33 @@
+---
+pagetitle: "Lesson 3 | Expanding brackets"
+order: 3
+format:
+  revealjs:
+    html-math-method: mathml
+    css: ../../../../assets/lesson.css
+    include-after-body: ../../../../assets/lesson-controls.html
+    controls: false
+    progress: false
+    touch: false
+    keyboard: false
+    overview: false
+    menu: false
+    slide-number: false
+    transition: none
+---
+
+{{< include lesson-3/_01-single-bracket.qmd >}}
+
+{{< include lesson-3/_02-two-single-brackets.qmd >}}
+
+{{< include lesson-3/_03-foil.qmd >}}
+
+{{< include lesson-3/_04-perfect-square.qmd >}}
+
+{{< include lesson-3/_05-difference-of-squares.qmd >}}
+
+{{< include lesson-3/_06-check-square.qmd >}}
+
+{{< include lesson-3/_07-check-product.qmd >}}
+
+{{< include lesson-3/_08-practice.qmd >}}

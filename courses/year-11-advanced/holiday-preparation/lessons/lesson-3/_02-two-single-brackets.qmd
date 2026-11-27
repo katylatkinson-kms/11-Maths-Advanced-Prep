@@ -1,0 +1,57 @@
+## Expand, then collect {#two-single-brackets}
+
+Expand each bracket with its own multiplier. Then collect like terms.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$2(x+4)+3(x-2)$
+
+::: {.fragment}
+
+[Distribute $2$ and $+3$.]{.annotation}
+
+$=2x+8+3x-6$
+
+:::
+
+::: {.fragment}
+
+[Collect the terms in $x$, then the constants.]{.annotation}
+
+$=5x+2$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$2(x+4)-3(x-2)$
+
+What is multiplying the second bracket? Expand on paper.
+
+:::
+
+::: {.fragment}
+
+[Check your working]{.annotation}
+
+The second multiplier is $-3$.
+
+$=2x+8-3x+6$
+
+$=-x+14$
+
+:::
+
+:::::
+
+::::::

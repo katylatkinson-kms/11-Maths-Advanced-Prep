@@ -1,0 +1,13 @@
+## Textbook practice {#practice}
+
+CambridgeMATHS NSW Year 10, Stage 5 Core & Advanced/Extension Paths, third edition (2024). **Exercise 5A.**
+
+| Time | Core practice |
+|:--|:--|
+| 7 min | p. 365. Q1(g, k), Q2(c). Expand each bracket, keeping track of the signs. |
+| 8 min | p. 365. Q3(d, h), Q4(d, i). For Q4, write the identity you recognise before expanding. |
+| 10 min | p. 366. Q5(a, c), Q8(a). Write all four products for each pair of brackets, then collect like terms. |
+| 10 min | p. 367. Q11(a, b). Identify the error in each expansion and show the corrected working. |
+| 5 min | Check your answers on p. 906. Redo a corrected part from a blank line. If all are correct, verify Q4(i) using FOIL. |
+
+[Return to program](../index.qmd)

@@ -1,0 +1,61 @@
+## Year 10 recap: expanding one bracket {#single-bracket}
+
+We are learning to expand brackets using FOIL and two identities.
+
+I can recognise a perfect square or a difference of two squares and choose a method to expand it.
+
+Recall: multiply the term outside the bracket by each term inside. Keep each sign with its term. Try the example on paper before selecting **Next**.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$3x(2x-5)$
+
+::: {.fragment}
+
+[Multiply both terms by $3x$.]{.annotation}
+
+$=(3x)(2x)+(3x)(-5)$
+
+:::
+
+::: {.fragment}
+
+[Multiply the coefficients and the variables.]{.annotation}
+
+$=6x^2-15x$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$-3x(2x-5)$
+
+Predict the sign of each product, then expand on paper.
+
+:::
+
+::: {.fragment}
+
+[Check your working]{.annotation}
+
+$=(-3x)(2x)+(-3x)(-5)$
+
+$=-6x^2+15x$
+
+The second product is positive because both factors are negative.
+
+:::
+
+:::::
+
+::::::

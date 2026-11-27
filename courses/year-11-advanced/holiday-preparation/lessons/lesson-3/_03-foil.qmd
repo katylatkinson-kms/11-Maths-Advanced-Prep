@@ -1,0 +1,73 @@
+## Expand two binomials using FOIL {#foil}
+
+Multiply each term in the first bracket by each term in the second. FOIL gives an order for the four products.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$(2x+3)(x+4)$
+
+::: {.fragment}
+
+[First]{.annotation} $(2x)(x)=2x^2$
+
+:::
+
+::: {.fragment}
+
+[Outer]{.annotation} $(2x)(4)=8x$
+
+:::
+
+::: {.fragment}
+
+[Inner]{.annotation} $(3)(x)=3x$
+
+:::
+
+::: {.fragment}
+
+[Last]{.annotation} $(3)(4)=12$
+
+:::
+
+::: {.fragment}
+
+[Collect the two terms in $x$.]{.annotation}
+
+$2x^2+8x+3x+12=2x^2+11x+12$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$(2x+3)(x-4)$
+
+Which two products change sign? Write all four products, then simplify.
+
+:::
+
+::: {.fragment}
+
+[Check your working]{.annotation}
+
+The outer and last products change sign.
+
+$=2x^2-8x+3x-12$
+
+$=2x^2-5x-12$
+
+:::
+
+:::::
+
+::::::

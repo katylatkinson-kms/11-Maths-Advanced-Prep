@@ -1,0 +1,65 @@
+## Spot a difference of two squares {#difference-of-squares}
+
+Look for the same two terms with a minus sign in one bracket and a plus sign in the other. Use $(a-b)(a+b)=a^2-b^2$.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$(2x-5)(2x+5)$
+
+::: {.fragment}
+
+[Identify the matching terms.]{.annotation}
+
+$a=2x$, $b=5$
+
+:::
+
+::: {.fragment}
+
+[Square each term and subtract.]{.annotation}
+
+$=(2x)^2-5^2$
+
+:::
+
+::: {.fragment}
+
+[The FOIL cross products cancel: $10x-10x=0$.]{.annotation}
+
+$=4x^2-25$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$(2x-7)(2x+7)$
+
+Predict which term in the answer will change, then expand on paper.
+
+:::
+
+::: {.fragment}
+
+[Check your working]{.annotation}
+
+$=(2x)^2-7^2$
+
+$=4x^2-49$
+
+Only the constant changes.
+
+:::
+
+:::::
+
+::::::

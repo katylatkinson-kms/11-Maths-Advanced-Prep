@@ -9,7 +9,7 @@ Allow 15–20 minutes for each lesson and about 40 minutes for textbook practice
 
 ## Lesson sequence
 
-Lessons 1 and 2 are ready. Lessons 3–20 are planned.
+Lessons 1–3 are ready. Lessons 4–20 are planned.
 
 
 ### Indices and expansion
@@ -18,7 +18,7 @@ Lessons 1 and 2 are ready. Lessons 3–20 are planned.
 |:--|:--|:--|
 | [1. Index laws with integer indices](lessons/lesson-1.qmd) | Use products, quotients and powers together. Write your answer with positive indices. | Signed numbers and powers |
 | [2. Fractional indices](lessons/lesson-2.qmd) | Convert between roots and powers, including negative fractional powers. | 1 |
-| 3. Expanding brackets | Expand single brackets, binomial products and perfect squares. | 1 |
+| [3. Expanding brackets](lessons/lesson-3.qmd) | Use FOIL and recognise perfect squares and differences of two squares. | 1 |
 
 ### Factorising and algebraic fractions
 
