@@ -1,0 +1,31 @@
+## Recall: expand three expressions {#expansion-recall}
+
+Close your notes. Allow about three minutes. Expand each expression on paper, then select **Next** to check one answer at a time.
+
+| A | B | C |
+|:--|:--|:--|
+| $(3x-5)^2$ | $(3x-5)(3x+5)$ | $(3x-5)(x+5)$ |
+
+::: {.fragment}
+
+**A.** $(3x-5)^2=9x^2-15x-15x+25=9x^2-30x+25$
+
+The brackets are identical. Both cross products are $-15x$.
+
+:::
+
+::: {.fragment}
+
+**B.** $(3x-5)(3x+5)=9x^2+15x-15x-25=9x^2-25$
+
+The cross products cancel. Read the equality backwards to see how to factorise $9x^2-25$.
+
+:::
+
+::: {.fragment}
+
+**C.** $(3x-5)(x+5)=3x^2+15x-5x-25=3x^2+10x-25$
+
+The first terms differ. The cross products add to $10x$.
+
+:::

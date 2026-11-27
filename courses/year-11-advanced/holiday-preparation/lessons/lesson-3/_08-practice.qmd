@@ -4,10 +4,10 @@ CambridgeMATHS NSW Year 10, Stage 5 Core & Advanced/Extension Paths, third editi
 
 | Time | Core practice |
 |:--|:--|
-| 7 min | p. 365. Q1(g, k), Q2(c). Expand each bracket, keeping track of the signs. |
-| 8 min | p. 365. Q3(d, h), Q4(d, i). For Q4, write the identity you recognise before expanding. |
-| 10 min | p. 366. Q5(a, c), Q8(a). Write all four products for each pair of brackets, then collect like terms. |
-| 10 min | p. 367. Q11(a, b). Identify the error in each expansion and show the corrected working. |
-| 5 min | Check your answers on p. 906. Redo a corrected part from a blank line. If all are correct, verify Q4(i) using FOIL. |
+| 5 min | p. 365. Q1(g, k), Q2(c). Expand each bracket, keeping the sign with its multiplier. |
+| 8 min | p. 365. Q3(d, h), Q4(a, d, i). For Q4, write the identity you recognise before expanding. |
+| 12 min | p. 366. Q5(d, m, g, o, c). Work in this order. Choose your own method for each part. |
+| 10 min | p. 366, Q8(a). Expand both products and simplify. Then do p. 367, Q11(a). Identify the error and correct the working. |
+| 5 min | Check your answers on p. 906. Redo a missed part from a blank line. If all are correct, verify Q5(o) using FOIL. |
 
 [Return to program](../index.qmd)
