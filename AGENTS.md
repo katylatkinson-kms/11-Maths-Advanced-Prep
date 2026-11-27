@@ -21,8 +21,7 @@ NSW secondary mathematics.
 
 ## Program scope
 
-Plan approximately 20 bite-sized lessons, sequenced so prerequisite
-skills are revisited before students need to apply them.
+Follow the approved 20-lesson sequence on the holiday program page.
 
 Priority content includes:
 
@@ -38,15 +37,7 @@ Priority content includes:
 Include supporting skills where they are necessary for these topics
 or clearly relevant to the beginning of Year 11 Mathematics Advanced.
 
-Before finalising the sequence, review the supplied Year 11 course
-outline and Year 10 textbook. Identify any assumptions about course
-coverage. Do not claim syllabus alignment without checking a supplied
-or verified syllabus source.
-
-The aim is preparation for Year 11, rather than comprehensive revision
-of the entire Year 10 course.
-
-When designing example pairs, vary one feature deliberately and invite students to predict its effect. Check whether the chosen numbers hide a step students need to see, such as coefficients simplifying to one. Use Craig Barton’s variation guidance when it supports the lesson goal.
+Use the supplied Year 11 course outline and Year 10 textbook to plan each lesson. Identify assumptions about prior coverage and verify any syllabus claim against a syllabus source.
 
 ## Approved sequence and practice
 
@@ -54,26 +45,17 @@ Use the 20 lessons listed on the holiday program page. Start with integer indice
 
 ## Work in two stages
 
-### Stage 1: Propose
+### Stage 1: Propose the next lesson
 
-Before creating lesson files or changing the repository:
+Use Lesson 1 as the approved design reference. For the next lesson in the agreed sequence, propose:
 
-1. Propose the overall 20-lesson sequence.
-2. Identify each lesson's focus, prerequisite knowledge and intended
-   textbook practice.
-3. Flag gaps, overlaps or topics that may need more than one lesson.
+- The focus, prerequisites, one-sentence objective and success criterion.
+- The slide order and estimated timings, including time for paper attempts.
+- The exact worked examples, their matching student questions and complete solutions. Identify the feature varied in each pair and what the student should notice.
+- The readiness question, answer options, correct solution and feedback for each error.
+- The verified textbook allocation and any diagram or interaction needed.
 
-For each lesson being developed, propose:
-
-- A one-sentence learning objective.
-- A one-sentence success criterion.
-- The slide sequence and approximate timing.
-- The exact worked examples and student questions.
-- Diagnostic checks, answers and misconception feedback.
-- Any useful visualisation or interaction.
-- The textbook practice allocation.
-
-Wait for approval before building. Incorporate requested changes first.
+Wait for approval before building a new lesson. Explicitly requested small edits can be made directly. If a proposed change affects the agreed sequence or lesson count, explain it before proceeding.
 
 ### Stage 2: Build
 
@@ -97,94 +79,34 @@ the explanations or removing opportunities to practise.
 
 ## Lesson structure
 
-Use this flexible structure:
+Open with a brief recap of the rules or procedures students will use. Include a one-sentence objective beginning “We are learning to…” and an observable success criterion beginning “I can…”. Move directly into the first example. Finish with a procedural readiness check, then the textbook practice slide.
 
-1. **Quick recall:** one short question that activates prerequisite
-   knowledge, with an accessible reminder if needed.
-2. **Goal:** state what students are revising and what successful work
-   will look like.
-3. **Refresh:** briefly explain the essential idea or method.
-4. **Worked examples:** normally two or three carefully chosen examples,
-   increasing in complexity.
-5. **Your turn:** include short student attempts alongside the examples.
-6. **Readiness check:** check whether students can apply the key idea
-   independently.
-7. **Textbook practice:** give the exact exercise and question allocation.
+## Worked examples and paper attempts
 
-Keep the learning objective to one short sentence, normally beginning
-“We are learning to…”.
+Use Lesson 1’s example-pair layout and cumulative reveals:
 
-Keep the success criterion to one short sentence, normally beginning
-“I can…”, describing an observable mathematical skill.
+1. Introduce the procedure in one or two sentences. Give enough guidance for a student working independently.
+2. Put the worked example on the left. Reveal one significant line per click, with a brief annotation such as “Square both factors”. Keep earlier lines visible.
+3. Reveal the matching “Your turn” question on the right. Keep the complete example visible while the student works on paper.
+4. Let the student select Next to reveal the full solution beside the model. Use consistent notation so students can compare corresponding steps.
 
-Avoid lengthy introductions, unnecessary repetition and crowded slides.
+Choose numbers deliberately using Craig Barton’s approach to variation. Decide what students should notice. Where useful, vary one feature and invite a prediction. In Lesson 1, doubling the denominator coefficient changes the result from \(18a^4\) to \(9a^4\). Check whether a coefficient of one, a zero term or cancelling negatives would hide the step being taught. Use such cases deliberately when they illustrate the intended point.
 
-## Explanations and worked examples
-
-Provide sufficient explanation for a student working without a teacher.
-
-Show mathematically meaningful working and briefly explain why key
-steps are valid. Address common errors at the point where they arise.
-
-Use a progression such as:
-
-- A fully worked example.
-- A similar example with an invitation to predict the next step.
-- A short independent attempt with a complete solution available.
-
-Choose examples that expose useful differences, rather than repeating
-the same procedure with different numbers.
-
-Ask students to attempt questions on paper before revealing solutions.
-Allow them to reveal and revisit working at their own pace.
-
-Use clear notation, consistent colour coding and readable layouts.
-Visualisations should clarify the mathematics and include a question
-directing students towards what they should notice.
+Typeset every mathematical fraction with `\frac` or `\dfrac`, including in questions, answer options and feedback. Keep significant steps on separate lines. Use diagrams when they clarify the procedure.
 
 ## Independent checks and feedback
 
-Include checks throughout the lesson and at least one diagnostic
-decision point before students begin textbook practice.
+Use the paired paper attempts for practice throughout the lesson. Before textbook practice, give a short procedural question students can attempt independently. For a multiple-choice check, offer four options with one unambiguously correct answer. Work out the specific error that produces each distractor.
 
-A useful default is a four-option multiple-choice question with one
-unambiguously correct answer and distractors based on common errors.
-Use short written-response questions where these provide better
-evidence of understanding.
+Keep feedback hidden until the student chooses an answer. An incorrect choice should identify the step to reconsider and allow an immediate retry. A correct choice should reveal the full worked solution. Use a written check when it better assesses the skill, with full working and a clear comparison point for students.
 
-For every check:
-
-- State exactly what the student should do.
-- Keep the answer hidden until the student chooses to check it.
-- Explain the correct reasoning.
-- Address the misconception behind each incorrect option.
-- Give a clear next step if the student needs more help.
-
-Where practical, provide feedback specific to the selected answer.
-For written responses, provide a worked solution and explain what
-students should compare with their own working.
-
-Use supportive, specific feedback such as:
-“Check that you divided every term by 3.”
-
-If a student answers incorrectly, offer a brief reminder or worked
-example, followed by a similar retry question.
-
-Adapt existing classroom hinge components for independent use.
-Students must control checking and revealing answers themselves.
-Do not require a teacher's cue, finger responses or a class discussion.
-Timers are optional and must not prevent students from proceeding.
-
-Do not place essential explanations or solutions only in presenter notes.
-Do not claim that responses or progress are saved unless that feature
-has been implemented and tested.
+Make all essential instructions, working and feedback available on the slides. Students control the pace. Any timer is optional. Only describe progress as saved if the feature has been implemented and tested.
 
 ## Textbook practice
 
 Use the supplied Year 10 textbook and specify its title and edition.
 
-For each lesson, give exact exercise references, question numbers and
-subparts. Verify them against the textbook; never invent references.
+On the final slide, give the exercise, printed page, question numbers and subparts. Verify each against the supplied Cambridge Year 10 textbook. When adding parts of a question, retain the agreed core questions unless the teacher asks to replace them.
 
 Select approximately 40 minutes of practice for a student with partial
 recall of the topic. Allow time for working, checking and corrections.
@@ -224,7 +146,9 @@ Before completing a lesson:
 - Check mathematical accuracy and every worked solution.
 - Verify answer mappings and misconception feedback.
 - Check that answers are initially hidden and can be revealed by students.
-- Test interactions, resets and touch controls.
+- Step through each reveal with Next and Back. Attempt a “Your turn” question with the full worked example visible.
+- Select every readiness option. Check feedback, immediate retry, correct working and reset.
+- Test touch and keyboard activation of buttons. Check that stray taps, swipes and navigation shortcuts cannot skip ahead.
 - Check readability on laptop and tablet screens.
 - Verify links and textbook references.
 - Review whether the lesson realistically fits 15–20 minutes.
@@ -244,7 +168,7 @@ Build the program as a Quarto website, published through GitHub Pages.
 - Keep presentation settings scoped to lessons so navigation pages
   remain ordinary webpages.
 - Students should navigate course → topic/program → lesson.
-- Include clear Previous, Next and Return to program controls.
+- Reuse Lesson 1’s Next and Back controls and Return to program link. Each button activation moves one reveal or one slide. Keep the slide count non-interactive. Disable progress-bar navigation, slide menus, overview, swipe navigation and slide-jump shortcuts. Keep buttons focusable and keyboard-operable.
 - Support independent use on laptops and tablets.
 
 Follow the existing repository structure and components. If starting
