@@ -1,0 +1,32 @@
+## Independent check {.psf-lesson}
+
+1. Factorise $6x^2+7x-3$ fully.
+2. Expand to check.
+
+<button type="button" class="reset-check" aria-expanded="false" aria-controls="split-hint" onclick="document.getElementById('split-hint').hidden=false; this.setAttribute('aria-expanded','true'); this.disabled=true">Show a hint</button>
+
+<div id="split-hint" hidden>
+
+Find the signed factors of $6(-3)$ whose sum is $7$. Which number is farther from zero?
+
+</div>
+
+::: {.fragment}
+
+$P=-18$, $S=7$. The pairs $(-1,18),(-2,9),(-3,6)$ give sums $17,7,3$. Choose $-2,9$.
+
+:::
+
+::: {.fragment}
+
+$6x^2+9x-2x-3=3x(2x+3)-1(2x+3)$
+
+$=(3x-1)(2x+3)$
+
+:::
+
+::: {.fragment}
+
+Check: $(3x-1)(2x+3)=6x^2+9x-2x-3=6x^2+7x-3$.
+
+:::

@@ -1,0 +1,107 @@
+## Positive product: match the signs {.psf-lesson .split-example}
+
+Either order of the pair works. Here, putting the even coefficient first lets you take $2x$ out of the first group.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$2x^2+7x+6$
+
+::: {.fragment}
+
+$P=12$, $S=7$: both positive.
+
+:::
+
+::: {.fragment}
+
+| Pair | $1,\ 12$ | $2,\ 6$ | $3,\ 4$ |
+|:--|:--|:--|:--|
+| Sum | $13$ | $8$ | $7$ |
+
+:::
+
+::: {.fragment}
+
+Choose $3,4$: $3+4=7$.
+
+:::
+
+::: {.fragment}
+
+$=2x^2+4x+3x+6$
+
+:::
+
+::: {.fragment}
+
+$=2x(x+2)+3(x+2)$
+
+:::
+
+::: {.fragment}
+
+$=(2x+3)(x+2)$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$2x^2-7x+6$
+
+1. Predict the signs.
+2. Choose the pair.
+3. Split and group on paper.
+
+:::
+
+::: {.fragment}
+
+$P=12$, $S=-7$: both negative.
+
+:::
+
+::: {.fragment}
+
+| Pair | $-1,\ -12$ | $-2,\ -6$ | $-3,\ -4$ |
+|:--|:--|:--|:--|
+| Sum | $-13$ | $-8$ | $-7$ |
+
+:::
+
+::: {.fragment}
+
+Choose $-3,-4$: $-3-4=-7$.
+
+:::
+
+::: {.fragment}
+
+$=2x^2-4x-3x+6$
+
+:::
+
+::: {.fragment}
+
+$=2x(x-2)-3(x-2)$
+
+:::
+
+::: {.fragment}
+
+$=(2x-3)(x-2)$
+
+:::
+
+:::::
+
+::::::

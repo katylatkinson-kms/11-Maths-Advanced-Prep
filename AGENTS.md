@@ -98,6 +98,8 @@ Typeset every mathematical fraction with `\frac` or `\dfrac`, including in quest
 
 ## Independent checks and feedback
 
+For an essential prerequisite, include an unfamiliar written attempt with the model out of view. Offer a hint on request and a fresh unaided attempt after support. Mix methods in independent practice and revisit the skill in a later lesson, including in a new context.
+
 Use the paired paper attempts for practice throughout the lesson. Before textbook practice, give a short procedural question students can attempt independently. For a multiple-choice check, offer four options with one unambiguously correct answer. Work out the specific error that produces each distractor.
 
 Keep feedback hidden until the student chooses an answer. An incorrect choice should identify the step to reconsider and allow an immediate retry. A correct choice should reveal the full worked solution. Use a written check when it better assesses the skill, with full working and a clear comparison point for students.

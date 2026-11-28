@@ -1,0 +1,12 @@
+## Textbook practice {#practice .psf-lesson}
+
+CambridgeMATHS NSW Year 10, Stage 5 Core & Advanced/Extension Paths, third edition (2024). **Exercise 5E, p. 386.**
+
+| Time | Core practice |
+|:--|:--|
+| 8 min | Q1(a, c). Show your factor list, selected pair, split and grouping. |
+| 12 min | Q2(a, g, i). Predict the signs. If you spot the pair, check both product and sum. List the pairs if you get stuck. |
+| 15 min | Q2(o), Q4(b), Q2(s), Q4(e), in that order. Factorise each expression fully. |
+| 5 min | Check on p. 909. Redo a missed part on a blank line. If all are correct, expand Q4(b) to check all three coefficients. |
+
+[Return to program](../index.qmd)

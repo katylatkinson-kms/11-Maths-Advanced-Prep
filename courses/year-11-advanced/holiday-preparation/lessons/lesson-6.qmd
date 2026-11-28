@@ -1,0 +1,35 @@
+---
+pagetitle: "Lesson 6 | Non-monic quadratics using PSF"
+order: 6
+format:
+  revealjs:
+    html-math-method: mathml
+    css: ../../../../assets/lesson.css
+    include-after-body: ../../../../assets/lesson-controls.html
+    controls: false
+    progress: false
+    touch: false
+    keyboard: false
+    overview: false
+    menu: false
+    slide-number: false
+    transition: none
+---
+
+{{< include lesson-6/_01-recall.qmd >}}
+
+{{< include lesson-6/_02-positive.qmd >}}
+
+{{< include lesson-6/_03-negative.qmd >}}
+
+{{< include lesson-6/_04-common.qmd >}}
+
+{{< include lesson-6/_05-check.qmd >}}
+
+{{< include lesson-6/_06-retry.qmd >}}
+
+{{< include lesson-6/_07-independent.qmd >}}
+
+{{< include lesson-6/_08-fresh.qmd >}}
+
+{{< include lesson-6/_09-practice.qmd >}}

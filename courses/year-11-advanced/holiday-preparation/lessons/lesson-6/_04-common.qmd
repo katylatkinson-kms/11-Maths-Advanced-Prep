@@ -1,0 +1,111 @@
+## Keep the common factor {.psf-lesson .split-example}
+
+Take out the highest common factor. Use P and S from inside the bracket.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$6x^2+3x-18$
+
+::: {.fragment}
+
+$=3(2x^2+x-6)$
+
+$P=-12$, $S=1$: opposite signs.
+
+:::
+
+::: {.fragment}
+
+| Pair | $-1,\ 12$ | $-2,\ 6$ | $-3,\ 4$ |
+|:--|:--|:--|:--|
+| Sum | $11$ | $4$ | $1$ |
+
+:::
+
+::: {.fragment}
+
+Choose $-3,4$: their sum is $1$.
+
+:::
+
+::: {.fragment}
+
+$=3(2x^2+4x-3x-6)$
+
+:::
+
+::: {.fragment}
+
+$=3[2x(x+2)-3(x+2)]$
+
+:::
+
+::: {.fragment}
+
+$=3(2x-3)(x+2)$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$6x^2-3x-18$
+
+1. Take out the common factor.
+2. Choose the pair.
+3. Split and group on paper.
+
+:::
+
+::: {.fragment}
+
+$=3(2x^2-x-6)$
+
+$P=-12$, $S=-1$: opposite signs.
+
+:::
+
+::: {.fragment}
+
+| Pair | $1,\ -12$ | $2,\ -6$ | $3,\ -4$ |
+|:--|:--|:--|:--|
+| Sum | $-11$ | $-4$ | $-1$ |
+
+:::
+
+::: {.fragment}
+
+Choose $3,-4$: their sum is $-1$.
+
+:::
+
+::: {.fragment}
+
+$=3(2x^2-4x+3x-6)$
+
+:::
+
+::: {.fragment}
+
+$=3[2x(x-2)+3(x-2)]$
+
+:::
+
+::: {.fragment}
+
+$=3(2x+3)(x-2)$
+
+:::
+
+:::::
+
+::::::

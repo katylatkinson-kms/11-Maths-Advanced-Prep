@@ -1,0 +1,28 @@
+## Where does the split come from? {.psf-lesson}
+
+We are learning to factorise non-monic quadratics by splitting the middle term. I can choose the signed pair, group the terms and expand to check.
+
+1. Expand $(2x+3)(x+2)$ using FOIL.
+2. Circle the terms that combine to give $7x$.
+
+::: {.fragment}
+
+$(2x+3)(x+2)=2x^2+4x+3x+6=2x^2+7x+6$
+
+:::
+
+::: {.fragment}
+
+Read backwards. The cross products give the split $7x=4x+3x$. The coefficients multiply to $2(6)=12$ and add to $7$.
+
+:::
+
+::: {.fragment}
+
+For $ax^2+bx+c$:
+
+1. Record $P=ac$ and $S=b$.
+2. Choose the signed factors of P whose sum is S.
+3. Use the pair to split $bx$, then group matching brackets.
+
+:::

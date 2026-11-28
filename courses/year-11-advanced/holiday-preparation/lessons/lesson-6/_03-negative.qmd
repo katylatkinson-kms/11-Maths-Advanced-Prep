@@ -1,0 +1,107 @@
+## Negative product: choose opposite signs {.psf-lesson .split-example}
+
+The number farther from zero takes the sign of the sum. For a sum of $1$ or $-1$, look for absolute values one apart.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$2x^2+x-6$
+
+::: {.fragment}
+
+$P=-12$, $S=1$: the number farther from zero is positive.
+
+:::
+
+::: {.fragment}
+
+| Pair | $-1,\ 12$ | $-2,\ 6$ | $-3,\ 4$ |
+|:--|:--|:--|:--|
+| Sum | $11$ | $4$ | $1$ |
+
+:::
+
+::: {.fragment}
+
+Choose $-3,4$: $-3+4=1$.
+
+:::
+
+::: {.fragment}
+
+$=2x^2+4x-3x-6$
+
+:::
+
+::: {.fragment}
+
+$=2x(x+2)-3(x+2)$
+
+:::
+
+::: {.fragment}
+
+$=(2x-3)(x+2)$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$2x^2-x-6$
+
+1. Predict the signs.
+2. Choose the pair.
+3. Split and group on paper.
+
+:::
+
+::: {.fragment}
+
+$P=-12$, $S=-1$: the number farther from zero is negative.
+
+:::
+
+::: {.fragment}
+
+| Pair | $1,\ -12$ | $2,\ -6$ | $3,\ -4$ |
+|:--|:--|:--|:--|
+| Sum | $-11$ | $-4$ | $-1$ |
+
+:::
+
+::: {.fragment}
+
+Choose $3,-4$: $3-4=-1$.
+
+:::
+
+::: {.fragment}
+
+$=2x^2-4x+3x-6$
+
+:::
+
+::: {.fragment}
+
+$=2x(x-2)+3(x-2)$
+
+:::
+
+::: {.fragment}
+
+$=(2x+3)(x-2)$
+
+:::
+
+:::::
+
+::::::

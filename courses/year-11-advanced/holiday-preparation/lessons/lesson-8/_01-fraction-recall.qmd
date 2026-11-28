@@ -1,0 +1,24 @@
+## Recall: simplify fully
+
+1. Simplify the expression on paper.
+2. State the excluded value.
+
+$\dfrac{6x^2-x-2}{3x-2}$
+
+::: {.fragment}
+
+The original denominator is zero at $x=\dfrac{2}{3}$. In the numerator, $P=-12$ and $S=-1$. The pairs $(1,-12),(2,-6),(3,-4)$ give sums $-11,-4,-1$. Choose $3,-4$.
+
+:::
+
+::: {.fragment}
+
+$6x^2+3x-4x-2=3x(2x+1)-2(2x+1)=(3x-2)(2x+1)$
+
+:::
+
+::: {.fragment}
+
+$\dfrac{(3x-2)(2x+1)}{3x-2}=2x+1,\quad x\ne\dfrac{2}{3}$.
+
+:::

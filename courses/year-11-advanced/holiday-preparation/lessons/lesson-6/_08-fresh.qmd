@@ -1,0 +1,24 @@
+## One more unaided attempt {.psf-lesson}
+
+If you needed the hint or the worked solution, try this on a fresh line. If you completed the independent check unaided, select Next to compare or continue to practice.
+
+1. Factorise $3x^2+8x-3$.
+2. Expand to check.
+
+::: {.fragment}
+
+$P=-9$, $S=8$. The pairs $(-1,9)$ and $(-3,3)$ sum to $8$ and $0$. Choose $-1,9$.
+
+:::
+
+::: {.fragment}
+
+$3x^2+9x-x-3=3x(x+3)-(x+3)=(3x-1)(x+3)$
+
+:::
+
+::: {.fragment}
+
+Check: $(3x-1)(x+3)=3x^2+9x-x-3=3x^2+8x-3$.
+
+:::
