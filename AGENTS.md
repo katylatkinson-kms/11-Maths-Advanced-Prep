@@ -81,6 +81,8 @@ the explanations or removing opportunities to practise.
 
 Open with a brief recap of the rules or procedures students will use. Include a one-sentence objective beginning “We are learning to…” and an observable success criterion beginning “I can…”. Move directly into the first example. Finish with a procedural readiness check, then the textbook practice slide.
 
+Write multi-step student instructions as a numbered list with one action per line. Use bullets for independent reminders and keep a single short prompt on one line. Keep all the instructions for a paper attempt visible together while students work.
+
 ## Worked examples and paper attempts
 
 Use Lesson 1’s example-pair layout and cumulative reveals:

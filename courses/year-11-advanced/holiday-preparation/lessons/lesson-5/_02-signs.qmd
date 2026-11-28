@@ -1,4 +1,4 @@
-## Predict the signs before listing pairs
+## Predict the signs before listing pairs {.psf-lesson}
 
 For $x^2+bx+c$, record $P=c$ and $S=b$. The product tells you whether the signs match. The sum tells you which signs to use.
 

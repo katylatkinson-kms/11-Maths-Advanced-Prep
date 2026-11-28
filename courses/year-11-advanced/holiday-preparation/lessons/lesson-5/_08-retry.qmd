@@ -1,6 +1,8 @@
-## Try the sign change
+## Try the sign change {.psf-lesson}
 
-Factorise $2x^2+10x-48$ on paper. Compare the signs with the previous check before selecting Next.
+1. Factorise $2x^2+10x-48$ on paper.
+2. Compare the signs with the previous check.
+3. Select **Next** to check your working.
 
 ::: {.fragment}
 

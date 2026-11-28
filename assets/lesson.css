@@ -43,3 +43,11 @@
 .lesson-nav button:disabled { opacity: .42; cursor: default; }
 .reveal button:focus-visible, .lesson-nav :focus-visible, .reveal a:focus-visible { outline: 3px solid #a95900; outline-offset: 3px; }
 @media print { .lesson-nav { display: none; } }
+
+.reveal .psf-lesson ol, .reveal .psf-lesson ul { margin-block: .15em; }
+.reveal .psf-lesson li > p { margin: 0; }
+.reveal .psf-lesson .example-pair { font-size: .89em; margin-top: .4em; }
+.reveal .psf-lesson .example-pair table { margin: .25em 0; }
+.reveal .psf-lesson .example-pair td, .reveal .psf-lesson .example-pair th { padding-block: .12em; }
+.reveal .psf-practice { display: grid; grid-template-columns: 1fr 3fr; gap: 1em; align-items: start; font-size: .9em; }
+.reveal .psf-practice table { margin-top: 0; }

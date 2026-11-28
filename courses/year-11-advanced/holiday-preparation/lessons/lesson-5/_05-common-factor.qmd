@@ -1,4 +1,4 @@
-## Factorise fully
+## Factorise fully {.psf-lesson}
 
 Take out the highest common factor first. Use the coefficients inside the bracket for PSF.
 
@@ -49,7 +49,9 @@ $=3(x-2)(x+5)$
 
 $3x^2-9x-30$
 
-Factorise fully on paper. Which sign changes inside the bracket?
+1. Take out the common factor.
+2. Identify which sign changes inside the bracket.
+3. Use PSF to finish factorising.
 
 :::
 

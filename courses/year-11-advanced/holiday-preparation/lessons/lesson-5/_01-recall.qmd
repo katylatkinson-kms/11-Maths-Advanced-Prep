@@ -1,10 +1,11 @@
-## From FOIL to PSF
+## From FOIL to PSF {.psf-lesson}
 
 We are learning to factorise monic quadratics using product, sum and factors (PSF). A monic quadratic has coefficient 1 on $x^2$.
 
 I can choose two integers with the required product and sum, write the brackets and expand to check.
 
-Expand $(x+3)(x+4)$ on paper. Where do the middle coefficient and constant come from?
+1. Expand $(x+3)(x+4)$ on paper.
+2. Identify where the middle coefficient and constant come from.
 
 ::: {.fragment}
 
@@ -14,7 +15,11 @@ $(x+3)(x+4)=x^2+4x+3x+12=x^2+7x+12$
 
 ::: {.fragment}
 
-Read backwards. **P** is the constant, $12$. **S** is the middle coefficient, $7$. Both factors are positive. The pairs $(1,12),(2,6),(3,4)$ have sums $13,8,7$. Select **F** $=3,4$ because $3+4=7$.
+Read the expansion backwards.
+
+- **P** is the constant, $12$. **S** is the middle coefficient, $7$.
+- Both factors are positive. The pairs $(1,12),(2,6),(3,4)$ have sums $13,8,7$.
+- Select **F** $=3,4$ because $3+4=7$.
 
 :::
 

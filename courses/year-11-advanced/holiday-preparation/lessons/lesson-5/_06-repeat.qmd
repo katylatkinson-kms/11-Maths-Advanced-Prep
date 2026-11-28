@@ -1,6 +1,7 @@
-## When do the brackets repeat?
+## When do the brackets repeat? {.psf-lesson}
 
-Factorise both expressions on paper. Which has identical brackets?
+1. Factorise A and B on paper.
+2. Identify which has identical brackets.
 
 **A.** $x^2+10x+25$&emsp; **B.** $x^2+26x+25$
 

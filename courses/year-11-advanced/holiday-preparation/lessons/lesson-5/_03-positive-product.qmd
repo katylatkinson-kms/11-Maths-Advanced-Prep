@@ -1,4 +1,4 @@
-## Keep the product fixed
+## Keep the product fixed {.psf-lesson}
 
 List pairs in order of increasing absolute value of the first number. Compare each sum with the target.
 
@@ -48,7 +48,10 @@ $x^2+8x+12=(x+2)(x+6)$
 
 $x^2-8x+12$
 
-Predict the signs. List the pairs, circle your choice and factorise.
+1. Predict the signs.
+2. List the signed factor pairs.
+3. Circle the pair with sum $-8$.
+4. Write the two brackets.
 
 :::
 

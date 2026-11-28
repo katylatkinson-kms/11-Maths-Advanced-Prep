@@ -1,6 +1,7 @@
-## Check your factorisation
+## Check your factorisation {.psf-lesson}
 
-Factorise $2x^2-10x-48$ fully on paper. Select the fully factorised answer.
+1. Factorise $2x^2-10x-48$ fully on paper.
+2. Select the matching answer.
 
 <div class="index-check" role="group" aria-label="Choose the fully factorised expression">
 

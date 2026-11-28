@@ -1,13 +1,28 @@
-## Textbook practice {#practice}
+## Textbook practice {#practice .psf-lesson}
 
 CambridgeMATHS NSW Year 10, Stage 5 Core & Advanced/Extension Paths, third edition (2024). **Exercise 5D.**
 
+:::: {.psf-practice}
+
+::: {}
+
+For the first set:
+
+1. Record P and S.
+2. Predict the signs.
+3. List the signed pairs.
+4. Circle the pair with the target sum.
+
+:::
+
 | Time | Core practice |
 |:--|:--|
-| 8 min | p. 381, Q1(a, b, d, m). Record P and S, predict the signs, list signed pairs and circle the pair with the target sum. Compare (a) with (b), then (d) with (m). |
+| 8 min | p. 381, Q1(a, b, d, m). Compare (a) with (b), then (d) with (m). |
 | 12 min | p. 381, Q1(h, v, q, k, t, w). Work in this order. Check both product and sum before writing the brackets. |
 | 8 min | p. 381, Q2(a, e, h). Take out the common factor first. In (h), take out a negative factor. |
 | 7 min | p. 381, Q1(p, r), then p. 382, Q3(h). Factorise fully. Look for repeated factors. |
 | 5 min | Check on p. 908. Redo a missed question. If all are correct, expand your answer to Q2(h) and check all three signs. |
+
+::::
 
 [Return to program](../index.qmd)
