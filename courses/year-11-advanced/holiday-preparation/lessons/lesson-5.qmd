@@ -1,0 +1,35 @@
+---
+pagetitle: "Lesson 5 | Monic quadratics using PSF"
+order: 5
+format:
+  revealjs:
+    html-math-method: mathml
+    css: ../../../../assets/lesson.css
+    include-after-body: ../../../../assets/lesson-controls.html
+    controls: false
+    progress: false
+    touch: false
+    keyboard: false
+    overview: false
+    menu: false
+    slide-number: false
+    transition: none
+---
+
+{{< include lesson-5/_01-recall.qmd >}}
+
+{{< include lesson-5/_02-signs.qmd >}}
+
+{{< include lesson-5/_03-positive-product.qmd >}}
+
+{{< include lesson-5/_04-negative-product.qmd >}}
+
+{{< include lesson-5/_05-common-factor.qmd >}}
+
+{{< include lesson-5/_06-repeat.qmd >}}
+
+{{< include lesson-5/_07-check.qmd >}}
+
+{{< include lesson-5/_08-retry.qmd >}}
+
+{{< include lesson-5/_09-practice.qmd >}}

@@ -9,7 +9,7 @@ Allow 15–20 minutes for each lesson and about 40 minutes for textbook practice
 
 ## Lesson sequence
 
-Lessons 1–4 and 10 are ready. Lessons 5–9 and 11–20 are planned.
+Lessons 1–5 and 10 are ready. Lessons 6–9 and 11–20 are planned.
 
 
 ### Indices and expansion
@@ -25,7 +25,7 @@ Lessons 1–4 and 10 are ready. Lessons 5–9 and 11–20 are planned.
 | Lesson | Focus | Revisit first |
 |:--|:--|:--|
 | [4. Factorising fully](lessons/lesson-4.qmd) | Use common factors, special products and grouping. Check for further factors. | 3 |
-| 5. Monic quadratics using PSF | Use the product and sum to find a pair of factors. | 3, 4 |
+| [5. Monic quadratics using PSF](lessons/lesson-5.qmd) | Use the product and sum to find a pair of factors. | 3, 4 |
 | 6. Non-monic quadratics using PSF | Split the middle term and factorise by grouping. | 4, 5 |
 | 7. Simplifying algebraic fractions | Cancel common factors and record excluded values. | 4–6 |
 | 8. Multiplying and dividing algebraic fractions | Factorise, take a reciprocal when dividing and identify restrictions. | 7 |

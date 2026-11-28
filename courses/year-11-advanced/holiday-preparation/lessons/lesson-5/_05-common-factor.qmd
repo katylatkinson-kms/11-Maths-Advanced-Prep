@@ -1,0 +1,87 @@
+## Factorise fully
+
+Take out the highest common factor first. Use the coefficients inside the bracket for PSF.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$3x^2+9x-30$
+
+::: {.fragment}
+
+$=3(x^2+3x-10)$
+
+**P** $=-10$, **S** $=3$. The number farther from zero is positive.
+
+:::
+
+::: {.fragment}
+
+| Signed pair | Sum |
+|:--|:--|
+| $-1,\ 10$ | $9$ |
+| $-2,\ 5$ | $3$ |
+
+:::
+
+::: {.fragment}
+
+**F:** Choose $-2,5$: $-2+5=3$.
+
+:::
+
+::: {.fragment}
+
+$=3(x-2)(x+5)$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$3x^2-9x-30$
+
+Factorise fully on paper. Which sign changes inside the bracket?
+
+:::
+
+::: {.fragment}
+
+$=3(x^2-3x-10)$
+
+**P** $=-10$, **S** $=-3$. The number farther from zero is negative.
+
+:::
+
+::: {.fragment}
+
+| Signed pair | Sum |
+|:--|:--|
+| $1,\ -10$ | $-9$ |
+| $2,\ -5$ | $-3$ |
+
+:::
+
+::: {.fragment}
+
+**F:** Choose $2,-5$: $2-5=-3$.
+
+:::
+
+::: {.fragment}
+
+$=3(x+2)(x-5)$
+
+:::
+
+:::::
+
+::::::

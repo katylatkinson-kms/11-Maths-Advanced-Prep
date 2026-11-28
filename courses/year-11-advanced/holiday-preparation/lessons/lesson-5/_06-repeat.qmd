@@ -1,0 +1,32 @@
+## When do the brackets repeat?
+
+Factorise both expressions on paper. Which has identical brackets?
+
+**A.** $x^2+10x+25$&emsp; **B.** $x^2+26x+25$
+
+::: {.fragment}
+
+Both have $P=25$ and a positive sum, so list positive pairs.
+
+:::
+
+::: {.fragment}
+
+| Signed pair | Sum |
+|:--|:--|
+| $1,\ 25$ | $26$ |
+| $5,\ 5$ | $10$ |
+
+:::
+
+::: {.fragment}
+
+**A.** $S=10$: choose $5,5$. Hence $x^2+10x+25=(x+5)^2$.
+
+:::
+
+::: {.fragment}
+
+**B.** $S=26$: choose $1,25$. Hence $x^2+26x+25=(x+1)(x+25)$.
+
+:::

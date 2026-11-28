@@ -1,0 +1,85 @@
+## Keep the product fixed
+
+List pairs in order of increasing absolute value of the first number. Compare each sum with the target.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$x^2+8x+12$
+
+::: {.fragment}
+
+**P** $=12$, **S** $=8$. Both signs are positive.
+
+:::
+
+::: {.fragment}
+
+| Signed pair | Sum |
+|:--|:--|
+| $1,\ 12$ | $13$ |
+| $2,\ 6$ | $8$ |
+| $3,\ 4$ | $7$ |
+
+:::
+
+::: {.fragment}
+
+**F:** Select $2,6$: $2+6=8$.
+
+:::
+
+::: {.fragment}
+
+$x^2+8x+12=(x+2)(x+6)$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$x^2-8x+12$
+
+Predict the signs. List the pairs, circle your choice and factorise.
+
+:::
+
+::: {.fragment}
+
+**P** $=12$, **S** $=-8$. Both signs are negative.
+
+:::
+
+::: {.fragment}
+
+| Signed pair | Sum |
+|:--|:--|
+| $-1,\ -12$ | $-13$ |
+| $-2,\ -6$ | $-8$ |
+| $-3,\ -4$ | $-7$ |
+
+:::
+
+::: {.fragment}
+
+**F:** Select $-2,-6$: $-2-6=-8$.
+
+:::
+
+::: {.fragment}
+
+$x^2-8x+12=(x-2)(x-6)$
+
+:::
+
+:::::
+
+::::::

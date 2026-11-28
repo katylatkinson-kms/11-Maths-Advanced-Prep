@@ -1,0 +1,41 @@
+## Check your factorisation
+
+Factorise $2x^2-10x-48$ fully on paper. Select the fully factorised answer.
+
+<div class="index-check" role="group" aria-label="Choose the fully factorised expression">
+
+<button type="button" data-choice="a" aria-pressed="false">A. $2(x+8)(x-3)$</button>
+<button type="button" data-choice="b" aria-pressed="false">B. $(x-8)(x+3)$</button>
+<button type="button" data-choice="c" aria-pressed="false">C. $2(x-8)(x+3)$</button>
+<button type="button" data-choice="d" aria-pressed="false">D. $2(x-6)(x+1)$</button>
+
+</div>
+
+<div class="check-feedback" aria-live="polite" aria-atomic="true">
+<div data-result="a" hidden>
+
+The product is $-24$, but $8-3=5$. Check the sign of the sum inside the bracket. Try again.
+
+</div>
+<div data-result="b" hidden>
+
+The pair works. Your first terms multiply to $x^2$. Which factor restores $2x^2$? Try again.
+
+</div>
+<div data-result="c" hidden>
+
+**Correct.** Take out 2: $2(x^2-5x-24)$. For $P=-24$ and $S=-5$, the number farther from zero is negative.
+
+$(1,-24),(2,-12),(3,-8),(4,-6)$ have sums $-23,-10,-5,-2$. Select $3,-8$ for the sum $-5$.
+
+$2x^2-10x-48=2(x-8)(x+3)$.
+
+</div>
+<div data-result="d" hidden>
+
+The sum is $-5$, but $(-6)(1)=-6$. Check the product inside the bracket. Try again.
+
+</div>
+</div>
+
+<button class="reset-check" type="button" hidden>Try again from the start</button>

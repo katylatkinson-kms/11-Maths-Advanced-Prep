@@ -1,0 +1,87 @@
+## Which factor is negative?
+
+A negative product requires opposite signs. A target sum of $1$ or $-1$ means the absolute values are one apart.
+
+:::::: {.example-pair}
+
+::::: {.model}
+
+<h3>Worked example</h3>
+
+$x^2+x-12$
+
+::: {.fragment}
+
+**P** $=-12$, **S** $=1$. Give the number farther from zero the positive sign.
+
+:::
+
+::: {.fragment}
+
+| Signed pair | Sum |
+|:--|:--|
+| $-1,\ 12$ | $11$ |
+| $-2,\ 6$ | $4$ |
+| $-3,\ 4$ | $1$ |
+
+:::
+
+::: {.fragment}
+
+**F:** Select $-3,4$: $-3+4=1$.
+
+:::
+
+::: {.fragment}
+
+$x^2+x-12=(x-3)(x+4)$
+
+:::
+
+:::::
+
+::::: {.paper}
+
+::: {.fragment}
+
+<h3>Your turn</h3>
+
+$x^2-x-12$
+
+Which factors of 12 are one apart? List the signed pairs, choose and check.
+
+:::
+
+::: {.fragment}
+
+**P** $=-12$, **S** $=-1$. Give the number farther from zero the negative sign.
+
+:::
+
+::: {.fragment}
+
+| Signed pair | Sum |
+|:--|:--|
+| $1,\ -12$ | $-11$ |
+| $2,\ -6$ | $-4$ |
+| $3,\ -4$ | $-1$ |
+
+:::
+
+::: {.fragment}
+
+**F:** Select $3,-4$: $3-4=-1$.
+
+:::
+
+::: {.fragment}
+
+$(x+3)(x-4)=x^2-4x+3x-12$
+
+$=x^2-x-12$
+
+:::
+
+:::::
+
+::::::

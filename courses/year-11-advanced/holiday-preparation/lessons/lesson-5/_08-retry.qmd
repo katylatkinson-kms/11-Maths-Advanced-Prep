@@ -1,0 +1,32 @@
+## Try the sign change
+
+Factorise $2x^2+10x-48$ on paper. Compare the signs with the previous check before selecting Next.
+
+::: {.fragment}
+
+Take out $2$: $2(x^2+5x-24)$. **P** $=-24$, **S** $=5$. The number with the larger absolute value is positive.
+
+:::
+
+::: {.fragment}
+
+| Signed pair | Sum |
+|:--|:--|
+| $-1,\ 24$ | $23$ |
+| $-2,\ 12$ | $10$ |
+| $-3,\ 8$ | $5$ |
+| $-4,\ 6$ | $2$ |
+
+:::
+
+::: {.fragment}
+
+**F:** Select $-3,8$ because $-3+8=5$.
+
+:::
+
+::: {.fragment}
+
+$2x^2+10x-48=2(x-3)(x+8)$
+
+:::

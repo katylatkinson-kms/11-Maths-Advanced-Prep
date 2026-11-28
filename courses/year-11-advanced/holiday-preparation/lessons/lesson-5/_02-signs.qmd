@@ -1,0 +1,22 @@
+## Predict the signs before listing pairs
+
+For $x^2+bx+c$, record $P=c$ and $S=b$. The product tells you whether the signs match. The sum tells you which signs to use.
+
+::: {.fragment}
+
+| Product | Sum | Signs of the pair |
+|:--|:--|:--|
+| Positive | Positive | Both positive. |
+| Positive | Negative | Both negative. |
+| Negative | Positive | Opposite signs. Give the number farther from zero the positive sign. |
+| Negative | Negative | Opposite signs. Give the number farther from zero the negative sign. |
+
+:::
+
+On paper: if $P=-12$ and $S=-1$, which number in the pair must be negative?
+
+::: {.fragment}
+
+The number farther from zero must be negative. With $3$ and $4$, use $3$ and $-4$: their sum is $-1$.
+
+:::
