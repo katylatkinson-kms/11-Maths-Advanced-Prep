@@ -1,0 +1,60 @@
+---
+title: "Factorising and algebraic fractions"
+subtitle: "Unit 02 · Lessons 4–9"
+---
+
+[All units](../index.qmd){.unit-back}
+
+## Lessons
+
+::: {.unit-lesson}
+[4. Factorising fully](../lessons/lesson-4.qmd)
+
+Use common factors, special products and grouping. Check for further factors.
+
+[Revisit first: 3]{.prereq}
+:::
+
+::: {.unit-lesson}
+[5. Monic quadratics using PSF](../lessons/lesson-5.qmd)
+
+Use the product and sum to find a pair of factors.
+
+[Revisit first: 3, 4]{.prereq}
+:::
+
+::: {.unit-lesson}
+[6. Non-monic quadratics using PSF](../lessons/lesson-6.qmd)
+
+Split the middle term and factorise by grouping.
+
+[Revisit first: 4, 5]{.prereq}
+:::
+
+::: {.unit-lesson}
+7\. Simplifying algebraic fractions [Planned]{.planned}
+
+Cancel common factors and record excluded values.
+
+[Revisit first: 4–6]{.prereq}
+:::
+
+::: {.unit-lesson}
+8\. Multiplying and dividing algebraic fractions [Planned]{.planned}
+
+Factorise, take a reciprocal when dividing and identify restrictions.
+
+[Revisit first: 7]{.prereq}
+:::
+
+::: {.unit-lesson}
+9\. Adding and subtracting algebraic fractions [Planned]{.planned}
+
+Find a common denominator and manage a subtracted numerator.
+
+[Revisit first: 3, 7]{.prereq}
+:::
+
+{{< include _reflect.qmd >}}
+
+[Return to all units](../index.qmd){.back-link}

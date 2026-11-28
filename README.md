@@ -2,7 +2,7 @@
 
 A Quarto website for Year 10 students preparing for the start of Year 11 Mathematics Advanced. Short, independent revision lessons will combine explanations, checks and worked examples with focused Year 10 textbook practice.
 
-The program page lists the approved 20-lesson sequence. Lesson 1 on integer index laws includes independent checks and a textbook allocation centred on Exercise 3B Q6. Lesson 2 covers fractional indices and uses Exercise 3D. Lesson 3 revisits single brackets, teaches FOIL and the two special products, and uses Exercise 5A. Lesson 4 covers factorising fully, including perfect-square trinomials, with Exercises 5B and 5D. Lesson 5 uses signed factor lists and PSF to factorise monic quadratics, with Exercise 5D practice. Lesson 6 uses PSF and grouping for non-monic quadratics, with an unaided check and mixed Exercise 5E practice. The Lesson 7 and 8 opening fragments revisit this skill after a gap. Lesson 10 solves linear equations with brackets and unknowns on both sides, compares expanding with dividing every term first, and uses Exercise 1B. Lessons 7–9 and 11–20 are planned. See [AGENTS.md](AGENTS.md) for the authoring requirements.
+The program page links to five unit pages containing the approved 20-lesson sequence. Lesson 1 on integer index laws includes independent checks and a textbook allocation centred on Exercise 3B Q6. Lesson 2 covers fractional indices and uses Exercise 3D. Lesson 3 revisits single brackets, teaches FOIL and the two special products, and uses Exercise 5A. Lesson 4 covers factorising fully, including perfect-square trinomials, with Exercises 5B and 5D. Lesson 5 uses signed factor lists and PSF to factorise monic quadratics, with Exercise 5D practice. Lesson 6 uses PSF and grouping for non-monic quadratics, with an unaided check and mixed Exercise 5E practice. The Lesson 7 and 8 opening fragments revisit this skill after a gap. Lesson 10 solves linear equations with brackets and unknowns on both sides, compares expanding with dividing every term first, and uses Exercise 1B. Lessons 7–9 and 11–20 are planned. See [AGENTS.md](AGENTS.md) for the authoring requirements.
 
 ## Preview and render
 
@@ -58,7 +58,7 @@ A successful build alone does not mean the live website has been updated. The pu
 | `_quarto.yml` | Website configuration, navigation and render scope |
 | `index.qmd` | Homepage |
 | `courses/year-11-advanced/index.qmd` | Course page |
-| `courses/year-11-advanced/holiday-preparation/index.qmd` | Program page and future lesson links |
+| `courses/year-11-advanced/holiday-preparation/index.qmd` | Unit tile directory |
 | `courses/year-11-advanced/holiday-preparation/lessons/_metadata.yml` | Reveal.js defaults scoped to lessons |
 | `assets/styles.css` | Shared webpage styling |
 | `assets/lesson.css` | Slide typography, maths and touch controls |
@@ -86,6 +86,6 @@ format: revealjs
 {{< include lesson-1/_02-recall.qmd >}}
 ```
 
-The project renders all `.qmd` pages and lesson masters while excluding underscore-prefixed slide fragments from standalone rendering. Update the program page with the lesson links in order. Include Previous, Next and Return to program controls in lessons as appropriate, and verify paths relative to each lesson master.
+The project renders all `.qmd` pages and lesson masters while excluding underscore-prefixed slide fragments from standalone rendering. Update the lesson link and planned label on its page in holiday-preparation/units/. The final lesson in each unit should link to that unit page at #reflection. The unit pages include _reflect.qmd and store reflections separately in the current browser. Include Previous, Next and Return to program controls in lessons as appropriate, and verify paths relative to each lesson master.
 
 Render the whole site before committing. Check navigation, laptop and tablet layouts, mathematical working, answer reveals and verified textbook references for every new lesson. Commit and push approved source changes directly to `main`; run the publishing workflow when publication is requested.

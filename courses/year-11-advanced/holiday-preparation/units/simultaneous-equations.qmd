@@ -1,0 +1,36 @@
+---
+title: "Simultaneous equations"
+subtitle: "Unit 05 · Lessons 18–20"
+---
+
+[All units](../index.qmd){.unit-back}
+
+## Lessons
+
+::: {.unit-lesson}
+18\. Simultaneous equations by substitution [Planned]{.planned}
+
+Recover both unknowns and check the ordered pair.
+
+[Revisit first: 10, 11]{.prereq}
+:::
+
+::: {.unit-lesson}
+19\. Simultaneous equations by elimination [Planned]{.planned}
+
+Choose a scaling step and solve a pricing problem.
+
+[Revisit first: 10, 18]{.prereq}
+:::
+
+::: {.unit-lesson}
+20\. Intersections of a line and a parabola [Planned]{.planned}
+
+Find all intersection points and check each in both equations.
+
+[Revisit first: 12, 16–18]{.prereq}
+:::
+
+{{< include _reflect.qmd >}}
+
+[Return to all units](../index.qmd){.back-link}

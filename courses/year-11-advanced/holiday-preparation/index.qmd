@@ -1,60 +1,18 @@
 ---
 title: "Holiday preparation program"
-description: "Twenty lessons to prepare for Year 11 Mathematics Advanced."
+subtitle: "Year 11 Mathematics Advanced"
 ---
 
-Allow 15–20 minutes for each lesson and about 40 minutes for textbook practice. Have paper, a pen and your Year 10 Cambridge textbook ready.
+Choose a unit to see its lessons. Work in order and finish each unit with a short reflection.
 
-[Start Lesson 1](lessons/lesson-1.qmd){.btn .btn-primary}
+::: {.program-grid}
+[[Unit 01 · Lessons 1–3]{.tile-meta} [aᵐ · aⁿ]{.tile-maths aria-hidden="true"} [Indices and expansion]{.tile-title}](units/indices-and-expansion.qmd){.unit-tile}
 
-## Lesson sequence
+[[Unit 02 · Lessons 4–9]{.tile-meta} [(x + p)(x + q)]{.tile-maths aria-hidden="true"} [Factorising and algebraic fractions]{.tile-title}](units/factorising-and-algebraic-fractions.qmd){.unit-tile}
 
-Lessons 1–6 and 10 are ready. Lessons 7–9 and 11–20 are planned.
+[[Unit 03 · Lessons 10–11]{.tile-meta} [ax + b = c]{.tile-maths aria-hidden="true"} [Linear equations]{.tile-title}](units/linear-equations.qmd){.unit-tile}
 
+[[Unit 04 · Lessons 12–17]{.tile-meta} [ax² + bx + c]{.tile-maths aria-hidden="true"} [Quadratics]{.tile-title}](units/quadratics.qmd){.unit-tile}
 
-### Indices and expansion
-
-| Lesson | Focus | Revisit first |
-|:--|:--|:--|
-| [1. Index laws with integer indices](lessons/lesson-1.qmd) | Use products, quotients and powers together. Write your answer with positive indices. | Signed numbers and powers |
-| [2. Fractional indices](lessons/lesson-2.qmd) | Convert between roots and powers, including negative fractional powers. | 1 |
-| [3. Expanding brackets](lessons/lesson-3.qmd) | Use FOIL and recognise perfect squares and differences of two squares. | 1 |
-
-### Factorising and algebraic fractions
-
-| Lesson | Focus | Revisit first |
-|:--|:--|:--|
-| [4. Factorising fully](lessons/lesson-4.qmd) | Use common factors, special products and grouping. Check for further factors. | 3 |
-| [5. Monic quadratics using PSF](lessons/lesson-5.qmd) | Use the product and sum to find a pair of factors. | 3, 4 |
-| [6. Non-monic quadratics using PSF](lessons/lesson-6.qmd) | Split the middle term and factorise by grouping. | 4, 5 |
-| 7. Simplifying algebraic fractions | Cancel common factors and record excluded values. | 4–6 |
-| 8. Multiplying and dividing algebraic fractions | Factorise, take a reciprocal when dividing and identify restrictions. | 7 |
-| 9. Adding and subtracting algebraic fractions | Find a common denominator and manage a subtracted numerator. | 3, 7 |
-
-### Linear equations
-
-| Lesson | Focus | Revisit first |
-|:--|:--|:--|
-| [10. Linear equations with brackets](lessons/lesson-10.qmd) | Solve equations with unknowns on both sides and check by substitution. | 3 |
-| 11. Linear equations with fractions | Clear the denominators from every term before solving. | 9, 10 |
-
-### Quadratics
-
-| Lesson | Focus | Revisit first |
-|:--|:--|:--|
-| 12. Solving quadratics by factorisation | Set the equation equal to zero and find its roots. | 4–6, 10 |
-| 13. Modelling with quadratics | Build an equation from a problem and justify which roots make sense. | 12 |
-| 14. Completing the square | Rewrite a quadratic in completed-square form and expand to check. | 3, 5 |
-| 15. Solving by completing the square | Recover both roots and handle a leading coefficient other than one. | 10, 14 |
-| 16. The quadratic formula | Substitute signed coefficients and give exact or approximate solutions. | 2, 10, 12 |
-| 17. The discriminant and method choice | Predict the number of real roots and choose a solving method. | 12, 15, 16 |
-
-### Simultaneous equations
-
-| Lesson | Focus | Revisit first |
-|:--|:--|:--|
-| 18. Simultaneous equations by substitution | Recover both unknowns and check the ordered pair. | 10, 11 |
-| 19. Simultaneous equations by elimination | Choose a scaling step and solve a pricing problem. | 10, 18 |
-| 20. Intersections of a line and a parabola | Find all intersection points and check each in both equations. | 12, 16–18 |
-
-[Return to course](../index.qmd){.back-link}
+[[Unit 05 · Lessons 18–20]{.tile-meta} [y = mx + b]{.tile-maths aria-hidden="true"} [Simultaneous equations]{.tile-title}](units/simultaneous-equations.qmd){.unit-tile}
+:::

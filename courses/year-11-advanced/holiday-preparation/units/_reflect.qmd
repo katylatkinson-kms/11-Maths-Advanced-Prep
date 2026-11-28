@@ -1,0 +1,25 @@
+## Study with Intention {#reflection}
+
+Reflect on this unit and plan your next action. Use a question from your practice as evidence.
+
+<form class="reflection-form" autocomplete="off">
+<div class="reflection-field">
+<label for="reflect"><span>01 Reflect</span>What did I do well?</label>
+<textarea id="reflect" rows="2"></textarea>
+</div>
+<div class="reflection-field">
+<label for="evaluate"><span>02 Evaluate</span>What can I improve?</label>
+<textarea id="evaluate" rows="2"></textarea>
+</div>
+<div class="reflection-field">
+<label for="act"><span>03 Act</span>What will I do next?</label>
+<textarea id="act" rows="2"></textarea>
+</div>
+<div class="reflection-field">
+<label for="progress-made"><span>04 Progress made</span>What can I now do independently?</label>
+<textarea id="progress-made" rows="2"></textarea>
+</div>
+<p class="reflection-status" role="status">You can also record your answers on paper.</p>
+</form>
+
+<script src="../../../../assets/reflection.js"></script>

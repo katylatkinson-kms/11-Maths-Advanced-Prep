@@ -14,7 +14,7 @@ Refresh the Year 10 skills that will support your work in Mathematics Advanced.
 Short, independent revision lessons followed by focused textbook practice. The program will revisit essential algebra and equation-solving skills, with checks to help you decide what to practise next.
 
 ::: {.status-note}
-Start with Lesson 1 on integer index laws. The program page lists all 20 lessons in order.
+Start with Lesson 1 on integer index laws. Choose a unit to see its lessons and end-of-unit reflection.
 :::
 
 [View the holiday program](holiday-preparation/index.qmd){.btn .btn-primary}

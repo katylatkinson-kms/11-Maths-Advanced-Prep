@@ -1,0 +1,60 @@
+---
+title: "Quadratics"
+subtitle: "Unit 04 · Lessons 12–17"
+---
+
+[All units](../index.qmd){.unit-back}
+
+## Lessons
+
+::: {.unit-lesson}
+12\. Solving quadratics by factorisation [Planned]{.planned}
+
+Set the equation equal to zero and find its roots.
+
+[Revisit first: 4–6, 10]{.prereq}
+:::
+
+::: {.unit-lesson}
+13\. Modelling with quadratics [Planned]{.planned}
+
+Build an equation from a problem and justify which roots make sense.
+
+[Revisit first: 12]{.prereq}
+:::
+
+::: {.unit-lesson}
+14\. Completing the square [Planned]{.planned}
+
+Rewrite a quadratic in completed-square form and expand to check.
+
+[Revisit first: 3, 5]{.prereq}
+:::
+
+::: {.unit-lesson}
+15\. Solving by completing the square [Planned]{.planned}
+
+Recover both roots and handle a leading coefficient other than one.
+
+[Revisit first: 10, 14]{.prereq}
+:::
+
+::: {.unit-lesson}
+16\. The quadratic formula [Planned]{.planned}
+
+Substitute signed coefficients and give exact or approximate solutions.
+
+[Revisit first: 2, 10, 12]{.prereq}
+:::
+
+::: {.unit-lesson}
+17\. The discriminant and method choice [Planned]{.planned}
+
+Predict the number of real roots and choose a solving method.
+
+[Revisit first: 12, 15, 16]{.prereq}
+:::
+
+{{< include _reflect.qmd >}}
+
+[Return to all units](../index.qmd){.back-link}

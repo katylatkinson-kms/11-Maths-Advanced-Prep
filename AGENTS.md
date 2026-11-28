@@ -41,7 +41,7 @@ Use the supplied Year 11 course outline and Year 10 textbook to plan each lesson
 
 ## Approved sequence and practice
 
-Use the 20 lessons listed on the holiday program page. Start with integer indices, use PSF for monic and non-monic trinomials, and finish with simultaneous equations. In Lesson 1, centre the practice on Exercise 3B Q6 from the 2024 third edition of CambridgeMATHS NSW Year 10. Build subsequent lessons after their questions are approved.
+Use the 20 lessons listed across the five unit pages linked from the holiday program. Maintain lesson links on the relevant unit page. Link the last lesson of each unit to its unit reflection. Start with integer indices, use PSF for monic and non-monic trinomials, and finish with simultaneous equations. In Lesson 1, centre the practice on Exercise 3B Q6 from the 2024 third edition of CambridgeMATHS NSW Year 10. Build subsequent lessons after their questions are approved.
 
 ## Work in two stages
 

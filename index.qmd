@@ -1,50 +1,32 @@
 ---
-title: "Year 11 Mathematics Advanced Holiday Preparation"
-title-block-banner: false
+title: "Year 11 Mathematics Advanced"
+subtitle: "Holiday preparation"
 pagetitle: "Year 11 Mathematics Advanced Holiday Preparation"
 ---
 
-::: {.hero-intro}
-::: {.eyebrow}
-Refresh your skills. Build your confidence.
+::: {.gold-band}
+Choose well. Prepare well. Study with intention.
 :::
 
-::: {.lead}
-A little practice now can make the start of Year 11 feel more familiar. Revisit the essential ideas from Year 10, one manageable lesson at a time.
-:::
+Build your algebra fluency before Year 11. Work through the five units at your own pace with paper, a pen and your Year 10 Cambridge textbook.
 
-::: {.status-note}
-Begin with index laws. Lesson 1 includes worked examples, independent checks and selected questions from your Year 10 textbook.
-:::
+[Explore the five units](courses/year-11-advanced/holiday-preparation/index.qmd){.btn .btn-primary}
 
-[Explore the program](courses/year-11-advanced/holiday-preparation/index.qmd){.btn .btn-primary}
-[How it will work](#how-it-will-work){.secondary-link}
-:::
-
-## How it will work
+## How to use the program
 
 ::: {.learning-rhythm}
 ::: {.rhythm-part}
-### Refresh and check
+### Work through a lesson
 
-::: {.time-label}
-15–20 minutes
+[15–20 minutes]{.time-label}
+
+Try each question on paper, then reveal the working and check your method.
 :::
-
-A short lesson with clear explanations, worked examples and questions to try. Reveal the answers and feedback when you are ready.
-:::
-
 ::: {.rhythm-part}
-### Put it into practice
+### Practise independently
 
-::: {.time-label}
-About 40 minutes
-:::
+[About 40 minutes]{.time-label}
 
-Follow up with selected Year 10 textbook questions to consolidate your understanding. Exercise references will accompany each lesson.
+Complete the selected textbook questions and correct your work. At the end of each unit, record what you can do independently.
 :::
-:::
-
-::: {.closing-note}
-You do not need to remember everything already. The program is designed to help you revisit ideas, work through mistakes and rebuild fluency at your own pace.
 :::

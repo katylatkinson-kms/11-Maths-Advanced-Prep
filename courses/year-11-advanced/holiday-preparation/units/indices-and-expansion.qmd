@@ -1,0 +1,36 @@
+---
+title: "Indices and expansion"
+subtitle: "Unit 01 · Lessons 1–3"
+---
+
+[All units](../index.qmd){.unit-back}
+
+## Lessons
+
+::: {.unit-lesson}
+[1. Index laws with integer indices](../lessons/lesson-1.qmd)
+
+Use products, quotients and powers together. Write your answer with positive indices.
+
+[Revisit first: Signed numbers and powers]{.prereq}
+:::
+
+::: {.unit-lesson}
+[2. Fractional indices](../lessons/lesson-2.qmd)
+
+Convert between roots and powers, including negative fractional powers.
+
+[Revisit first: 1]{.prereq}
+:::
+
+::: {.unit-lesson}
+[3. Expanding brackets](../lessons/lesson-3.qmd)
+
+Use FOIL and recognise perfect squares and differences of two squares.
+
+[Revisit first: 1]{.prereq}
+:::
+
+{{< include _reflect.qmd >}}
+
+[Return to all units](../index.qmd){.back-link}

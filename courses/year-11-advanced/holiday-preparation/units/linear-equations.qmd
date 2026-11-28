@@ -1,0 +1,28 @@
+---
+title: "Linear equations"
+subtitle: "Unit 03 · Lessons 10–11"
+---
+
+[All units](../index.qmd){.unit-back}
+
+## Lessons
+
+::: {.unit-lesson}
+[10. Linear equations with brackets](../lessons/lesson-10.qmd)
+
+Solve equations with unknowns on both sides and check by substitution.
+
+[Revisit first: 3]{.prereq}
+:::
+
+::: {.unit-lesson}
+11\. Linear equations with fractions [Planned]{.planned}
+
+Clear the denominators from every term before solving.
+
+[Revisit first: 9, 10]{.prereq}
+:::
+
+{{< include _reflect.qmd >}}
+
+[Return to all units](../index.qmd){.back-link}

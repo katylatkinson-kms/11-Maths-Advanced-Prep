@@ -10,4 +10,4 @@ CambridgeMATHS NSW Year 10, Stage 5 Core & Advanced/Extension Paths, third editi
 | 10 min | p. 366, Q8(a). Expand both products and simplify. Then do p. 367, Q11(a). Identify the error and correct the working. |
 | 5 min | Check your answers on p. 906. Redo a missed part from a blank line. If all are correct, verify Q5(o) using FOIL. |
 
-[Return to program](../index.qmd)
+[Unit reflection](../units/indices-and-expansion.qmd#reflection) · [Return to program](../index.qmd)

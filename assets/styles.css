@@ -1,9 +1,9 @@
 :root {
-  --prep-ink: #172c47;
+  --prep-ink: #1e3446;
   --prep-muted: #44556b;
-  --prep-teal: #006b63;
+  --prep-teal: #17636a;
   --prep-line: #dce5eb;
-  --prep-tint: #eff7f6;
+  --prep-tint: #f9ebc5;
 }
 
 body {
@@ -197,3 +197,36 @@ button:focus-visible {
     scroll-behavior: auto !important;
   }
 }
+
+:root { --prep-gold: #f9ebc5; }
+#title-block-header { border-top: 5px solid var(--prep-teal); padding-top: 1.3rem; }
+#title-block-header .subtitle, .tile-meta, .reflection-field label span, .gold-band {
+  color: var(--prep-teal); text-transform: uppercase; font-weight: 700;
+  font-size: .84rem; letter-spacing: .1em;
+}
+.gold-band { padding: .65rem 1rem; margin-bottom: 1.5rem; background: var(--prep-gold); }
+.gold-band p, .program-grid p, .unit-lesson p:last-child { margin: 0; }
+.program-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 1rem; margin: 2rem 0; }
+.program-grid > p { display: flex; }
+.unit-tile { position: relative; width: 100%; display: grid; gap: .55rem; align-content: start;
+  padding: 1.15rem 1.35rem; border: 1px solid #b5cbca; border-top: 4px solid var(--prep-teal);
+  background: #f5f9f8; text-decoration: none; color: var(--prep-ink); }
+.unit-tile:hover, .unit-tile:focus-visible { background: #fff8e7; border-color: var(--prep-teal); }
+.tile-maths { font: italic 1.7rem Georgia,serif; color: var(--prep-teal); }
+.tile-title { font-size: 1.24rem; line-height: 1.25; font-weight: 720; padding-right: 1.7rem; }
+.unit-tile::after { content: '→'; position: absolute; bottom: 1rem; right: 1rem; color: var(--prep-teal); }
+.unit-back { font-weight: 650; }
+.unit-lesson { padding: .9rem 0; border-bottom: 1px solid var(--prep-line); }
+.unit-lesson p { margin: 0 0 .2rem; }
+.unit-lesson p:first-child { font-weight: 700; }
+.prereq, .planned, .reflection-status { font-size: .9rem; color: var(--prep-muted); }
+.planned { margin-left: .5rem; font-weight: 500; }
+#reflection { scroll-margin-top: 5rem; }
+#reflection > h2 { border-bottom: 5px solid var(--prep-gold); }
+.reflection-form { max-width: 48rem; }
+.reflection-field { margin: 1.4rem 0; }
+.reflection-field label, .reflection-field label span { display: block; }
+.reflection-field textarea { display: block; width: 100%; margin-top: .45rem; resize: vertical;
+  color: var(--prep-ink); background: #fcfdfd; border: 1px solid #92a8ac; padding: .55rem .75rem; }
+.reflection-field textarea:focus-visible { outline: 3px solid var(--prep-teal); outline-offset: 2px; }
+@media(max-width: 600px) { .program-grid { grid-template-columns: 1fr; } }
